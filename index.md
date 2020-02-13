@@ -18,13 +18,9 @@
 
 * [Hypothesis Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_L05_HypothesisSim.ipynb)<br/>
 1. Identify a likely distribution for price and several other features.
-2. Compute basic summary statistics by both classical, bootstrap, and Bayesian methods
-3. Compute confidence intervals for these summary statistics by classical, bootstrap, and Bayesian methods
+2. Compute basic summary statistics by both classical, bootstrap, and Bayesian methods.
+3. Compute confidence intervals for these summary statistics by classical, bootstrap, and Bayesian methods.
 4. Correctly use hypothesis tests to determine if the differences in pairs and multiple populations are significant:
-    - Classical tests
-    - Tukey’s Honest Significant Differences (HSD)
-    - Bootstrap methods
-    - Bayesian model
 
 * [Ad Regression](https://github.com/n8sean/portfolio/blob/master/Course-02_L06_AdRegression.ipynb)<br/>
 
