@@ -4,11 +4,11 @@
 
 #### Course II - Methods for Data Analysis
 * [Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)
-  
+
 * [Visualization](https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb)
-  
+
 * [Monty Hall](https://github.com/n8sean/portfolio/blob/master/Course-02_L03_MontyHall.ipynb)
-  
+
 * [Auto Hypothesis](https://github.com/n8sean/portfolio/blob/master/Course-02_L04_AutoHypothesis.ipynb)
 
 * [Hypothesis Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_L05_HypothesisSim.ipynb)
@@ -30,3 +30,33 @@
 * [Project Milestone 3 - Regression Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-03_RegressionSim.ipynb)
 
 * [Project Milestone 4 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb)
+
+
+#### Course III - Machine Learning Techniques
+* [Understanding Business Requirements](https://github.com/n8sean/portfolio/blob/master/Course-03_L01_Understanding-Business-Requirements.pdf)
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+> * []()  
+
+> * []()  
+
+> * []()
