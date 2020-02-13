@@ -3,49 +3,49 @@
 > January 2020  
 
 > ### Course II - Methods for Data Analysis
-- [Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)  
+> * [Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb/)  
 
-- [Visualization](https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb)  
+> * [Visualization](https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb/)  
 
-- [Monty Hall](https://github.com/n8sean/portfolio/blob/master/Course-02_L03_MontyHall.ipynb)  
+> * [Monty Hall](https://github.com/n8sean/portfolio/blob/master/Course-02_L03_MontyHall.ipynb)  
 
-- [Auto Hypothesis](https://github.com/n8sean/portfolio/blob/master/Course-02_L04_AutoHypothesis.ipynb)  
+> * [Auto Hypothesis](https://github.com/n8sean/portfolio/blob/master/Course-02_L04_AutoHypothesis.ipynb)  
 
-- [Hypothesis Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_L05_HypothesisSim.ipynb)  
+> * [Hypothesis Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_L05_HypothesisSim.ipynb)  
 
-- [Ad Regression](https://github.com/n8sean/portfolio/blob/master/Course-02_L06_AdRegression.ipynb)  
+> * [Ad Regression](https://github.com/n8sean/portfolio/blob/master/Course-02_L06_AdRegression.ipynb)  
 
-- [Parkinson PCR](https://github.com/n8sean/portfolio/blob/master/Course-02_L07_ParkinsonPCR.ipynb)  
+> * [Parkinson PCR](https://github.com/n8sean/portfolio/blob/master/Course-02_L07_ParkinsonPCR.ipynb)  
 
-- [Time Series OpEd](https://github.com/n8sean/portfolio/blob/master/Course-02_L08_TimeseriesOpEd.ipynb)  
+> * [Time Series OpEd](https://github.com/n8sean/portfolio/blob/master/Course-02_L08_TimeseriesOpEd.ipynb)  
 
-- [Baye's OpEd](https://github.com/n8sean/portfolio/blob/master/Course-02_L09_BayesOpEd.ipynb)  
+> * [Baye's OpEd](https://github.com/n8sean/portfolio/blob/master/Course-02_L09_BayesOpEd.ipynb)  
 
-- [Sentiment Analysis](https://github.com/n8sean/portfolio/blob/master/Course-02_L10_Sentiment_Analysis2.ipynb)  
+> * [Sentiment Analysis](https://github.com/n8sean/portfolio/blob/master/Course-02_L10_Sentiment_Analysis2.ipynb)  
 
-- [Project Milestone 1 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-01_KingCountyHousing.ipynb)  
+> * [Project Milestone 1 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-01_KingCountyHousing.ipynb)  
 
-- [Project Milestone 2 - Hypothesis Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-02_HypothesisSim.ipynb)  
+> * [Project Milestone 2 - Hypothesis Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-02_HypothesisSim.ipynb)  
 
-- [Project Milestone 3 - Regression Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-03_RegressionSim.ipynb)  
+> * [Project Milestone 3 - Regression Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-03_RegressionSim.ipynb)  
 
-- [Project Milestone 4 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb)  
+> * [Project Milestone 4 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb)  
 
 > ### Course III - Machine Learning Techniques
-- [Understanding Business Requirements](https://github.com/n8sean/portfolio/blob/master/Course-03_L01_Understanding-Business-Requirements.pdf)  
+> * [Understanding Business Requirements](https://github.com/n8sean/portfolio/blob/master/Course-03_L01_Understanding-Business-Requirements.pdf)  
 
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
+> * []()  
+> * []()  
+> * []()  
+> * []()  
+> * []()  
+> * []()  
+> * []()  
+> * []()  
+> * []()  
+> * []()  
+> * []()  
+> * []()  
+> * []()  
+> * []()  
+> * []()  
