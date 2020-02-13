@@ -2,7 +2,7 @@
 > University of Washington Professional and Continuing Education  
 > January 2020
 <br>
-- [Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)
+- [Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)  
 - [Visualization](https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb)  
 - [Monty Hall](https://github.com/n8sean/portfolio/blob/master/Course-02_L03_MontyHall.ipynb)  
 - [Auto Hypothesis](https://github.com/n8sean/portfolio/blob/master/Course-02_L04_AutoHypothesis.ipynb)  
