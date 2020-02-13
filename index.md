@@ -4,9 +4,11 @@
 
 #### Course II - Methods for Data Analysis
 * [Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
-Use visualization and summary statistical methods to explore a data set.
+1. Use visualization and summary statistical methods to explore a data set.
     
 * [Visualization](https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb)<br/>
+1. Create different complementary views of data by applying multiple chart types and aesthetics.
+2. Project multiple dimensions using conditioning or faceting (e.g., small multiples) on both categorical and numeric variables.
 
 * [Monty Hall](https://github.com/n8sean/portfolio/blob/master/Course-02_L03_MontyHall.ipynb)<br/>
 
