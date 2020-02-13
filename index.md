@@ -3,8 +3,7 @@
 > January 2020  
 
 #### Course II - Methods for Data Analysis
-* [Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)  
-    Use visualization and summary statistical methods to explore a data set.
+* [Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>Use visualization and summary statistical methods to explore a data set.
     
 * [Visualization](https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb)
 
