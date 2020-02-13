@@ -1,7 +1,7 @@
 # Certification in Data Science 
 > University of Washington Professional and Continuing Education  
 > January 2020  
-<br>
+
 - [Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)  
 
 - [Visualization](https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb)  
@@ -30,7 +30,7 @@
 
 - [Project Milestone 4 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb)  
 
-<br>
+
 - [Understanding Business Requirements](https://github.com/n8sean/portfolio/blob/master/Course-03_L01_Understanding-Business-Requirements.pdf)  
 
 - []()  
