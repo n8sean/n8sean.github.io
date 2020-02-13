@@ -16,7 +16,7 @@
 * [Auto Hypothesis](https://github.com/n8sean/portfolio/blob/master/Course-02_L04_AutoHypothesis.ipynb)<br/>
 1. Test various hypotheses for the price of automobile features.
 
-* [Hypothesis Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_L05_HypothesisSim.ipynb)<br/>
+* [Hypothesis Simulation / Automotive Dataset](https://github.com/n8sean/portfolio/blob/master/Course-02_L05_HypothesisSim.ipynb)<br/>
 1. Identify a likely distribution for price and several other features.
 2. Compute basic summary statistics by both classical, bootstrap, and Bayesian methods.
 3. Compute confidence intervals for these summary statistics by classical, bootstrap, and Bayesian methods.
