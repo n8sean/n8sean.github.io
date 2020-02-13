@@ -1,4 +1,4 @@
-### The following courses and associated assignments were accomplished for the Certificate in Data Science: 
+### The following courses and associated assignments were accomplished for the Certificate in Data Science:<br/>
 
 #### Course II - Methods for Data Analysis
 * [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
