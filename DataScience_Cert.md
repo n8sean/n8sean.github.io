@@ -41,8 +41,8 @@
 
 * [Project Milestone 3 - Regression Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-03_RegressionSim.ipynb)<br/>
 
-* [Project Milestone 4 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb)<br/>
-
+* [Project Milestone 4 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb)
+<br/><br/>
 
 #### Course III - Machine Learning Techniques
 * [Understanding Business Requirements](https://github.com/n8sean/portfolio/blob/master/Course-03_L01_Understanding-Business-Requirements.pdf)<br/>
