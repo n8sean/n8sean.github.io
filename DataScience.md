@@ -1,4 +1,4 @@
-***The following courses and associated assignments were accomplished for the Certificate in Data Science:***
+***The following courses and assignments were accomplished for the Certificate in Data Science:***
 <br/><br/>
 
 #### Course II - Methods for Data Analysis
