@@ -2,7 +2,7 @@
 > University of Washington Professional and Continuing Education  
 > January 2020  
 
-### Course II - Methods for Data Analysis
+> ### Course II - Methods for Data Analysis
 - [Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)  
 
 - [Visualization](https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb)  
@@ -31,7 +31,7 @@
 
 - [Project Milestone 4 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb)  
 
-### Course III - Machine Learning Techniques
+> ### Course III - Machine Learning Techniques
 - [Understanding Business Requirements](https://github.com/n8sean/portfolio/blob/master/Course-03_L01_Understanding-Business-Requirements.pdf)  
 
 - []()  
