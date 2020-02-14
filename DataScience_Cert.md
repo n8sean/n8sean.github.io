@@ -27,20 +27,20 @@ description: University of Washington Professional and Continueing Education
 2. Compute basic summary statistics by both classical, bootstrap, and Bayesian methods.
 3. Compute confidence intervals for these summary statistics by classical, bootstrap, and Bayesian methods.
 4. Correctly use hypothesis tests to determine if the differences in pairs and multiple populations are significant:
-       - Classical tests
-       - Tukey’s Honest Significant Differences (HSD)
-       - Bootstrap methods
-       - Bayesian model
+     - Classical tests
+     - Tukey’s Honest Significant Differences (HSD)
+     - Bootstrap methods
+     - Bayesian model
 
 * [Advertising Sales Regression](https://github.com/n8sean/portfolio/blob/master/Course-02_L06_AdRegression.ipynb)<br/>
 1. Perform four different linear regressions on advertising sales data.
 2. For the first 3 linear regressions performed:
-- Produce a labeled graph showing the best fit line with the data points
-- Interpret both the slope and y-intercept
+     - Produce a labeled graph showing the best fit line with the data points
+     - Interpret both the slope and y-intercept
 3. The 4th regression includes all 3 prior features:
-- TV
-- Radio
-- newspaper
+     - TV
+     - Radio
+     - Newspaper
 4. Interpret each partial slope and the intercept parameters.
 5. Interpret the adjusted R-squared.
 6. Find and report the mean-squared error.
