@@ -9,43 +9,43 @@ description: University of Washington Professional and Continueing Education
 
 #### Course II - Methods for Data Analysis  
 ---
-* [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
-1. Use visualization and summary statistical methods to explore a data set.
+1. [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
+* Use visualization and summary statistical methods to explore a data set.
     
-* [Dataset Visualization](https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb)<br/>
-1. Create different complementary views of data by applying multiple chart types and aesthetics.
-2. Project multiple dimensions using conditioning or faceting on both categorical and numeric variables.
+2. [Dataset Visualization](https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb)<br/>
+* Create different complementary views of data by applying multiple chart types and aesthetics.
+* Project multiple dimensions using conditioning or faceting on both categorical and numeric variables.
 
-* [Monty Hall Problem](https://github.com/n8sean/portfolio/blob/master/Course-02_L03_MontyHall.ipynb)<br/>
-1. Simulate the conditional probabilities of the distributions for winning a car vs. a goat for the Monty Hall problem.
+3. [Monty Hall Problem](https://github.com/n8sean/portfolio/blob/master/Course-02_L03_MontyHall.ipynb)<br/>
+* Simulate the conditional probabilities of the distributions for winning a car vs. a goat for the Monty Hall problem.
 
-* [Automotive Hypothesis Testing / Automotive Dataset](https://github.com/n8sean/portfolio/blob/master/Course-02_L04_AutoHypothesis.ipynb)<br/>
-1. Test various hypotheses for the price of automobile features.
+4. [Automotive Hypothesis Testing / Automotive Dataset](https://github.com/n8sean/portfolio/blob/master/Course-02_L04_AutoHypothesis.ipynb)<br/>
+* Test various hypotheses for the price of automobile features.
 
-* [Hypothesis Simulation / Automotive Dataset](https://github.com/n8sean/portfolio/blob/master/Course-02_L05_HypothesisSim.ipynb)<br/>
-1. Identify a likely distribution for price and several other features.
-2. Compute basic summary statistics by both classical, bootstrap, and Bayesian methods.
-3. Compute confidence intervals for these summary statistics by classical, bootstrap, and Bayesian methods.
-4. Correctly use hypothesis tests to determine if the differences in pairs and multiple populations are significant:
- - Classical tests
- - Tukey’s Honest Significant Differences (HSD)
- - Bootstrap methods
- - Bayesian model
+5. [Hypothesis Simulation / Automotive Dataset](https://github.com/n8sean/portfolio/blob/master/Course-02_L05_HypothesisSim.ipynb)<br/>
+* Identify a likely distribution for price and several other features.
+* Compute basic summary statistics by both classical, bootstrap, and Bayesian methods.
+* Compute confidence intervals for these summary statistics by classical, bootstrap, and Bayesian methods.
+* Correctly use hypothesis tests to determine if the differences in pairs and multiple populations are significant:
+  - Classical tests
+  - Tukey’s Honest Significant Differences (HSD)
+  - Bootstrap methods
+  - Bayesian model
 
-* [Advertising Sales Regression](https://github.com/n8sean/portfolio/blob/master/Course-02_L06_AdRegression.ipynb)<br/>
-1. Perform four different linear regressions on advertising sales data.
-2. For the first 3 linear regressions performed:
- - Produce a labeled graph showing the best fit line with the data points
- - Interpret both the slope and y-intercept
-3. The 4th regression includes all 3 prior features:
- - TV
- - Radio
- - Newspaper
-4. Interpret each partial slope and the intercept parameters.
-5. Interpret the adjusted R-squared.
-6. Find and report the mean-squared error.
+6. [Advertising Sales Regression](https://github.com/n8sean/portfolio/blob/master/Course-02_L06_AdRegression.ipynb)<br/>
+* Perform four different linear regressions on advertising sales data.
+* For the first 3 linear regressions performed:
+  - Produce a labeled graph showing the best fit line with the data points
+  - Interpret both the slope and y-intercept
+* The 4th regression includes all 3 prior features:
+  - TV
+  - Radio
+  - Newspaper
+* Interpret each partial slope and the intercept parameters.
+* Interpret the adjusted R-squared.
+* Find and report the mean-squared error.
 
-* [Parkinson PCR](https://github.com/n8sean/portfolio/blob/master/Course-02_L07_ParkinsonPCR.ipynb)<br/>
+7. [Parkinson PCR](https://github.com/n8sean/portfolio/blob/master/Course-02_L07_ParkinsonPCR.ipynb)<br/>
 
 * [Time Series OpEd](https://github.com/n8sean/portfolio/blob/master/Course-02_L08_TimeseriesOpEd.ipynb)<br/>
 
