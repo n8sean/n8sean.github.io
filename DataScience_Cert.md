@@ -9,7 +9,7 @@ description: University of Washington Professional and Continueing Education
 
 <br/>
 #### Course II - Methods for Data Analysis<br/>
----  
+---<br/>
 1. [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
 * Use visualization and summary statistical methods to explore a data set.
     
@@ -141,7 +141,14 @@ description: University of Washington Professional and Continueing Education
   \+ Graph the confusion matrices for each of your models.
 
 7. [Support Vector Classifier, Support Vector Regression](https://github.com/n8sean/portfolio/blob/master/Course-03_L07_Support-Vector-Classifier_Support-Vector-Regression.ipynb)<br/>
-*
+* Kennedy's oceanographic institute client pulled into port the other day with a ton (literally) of collected samples and corresponding data to process. Some of these data tasks are being distributed to others to work on; you've got the abalone (marine snails) data to classify and determine the age from physical characteristics.
+* Using the Abalone.csv file, create a new notebook to build an experiment using support vector machine classifier and regression. Perform each of the following tasks and answer the questions:  
+  \+ Convert the continuous output value from continuous to binary (0,1) and build an SVC.  
+  \+ Using your best guess for hyperparameters and kernel, what is the percentage of correctly classified results?  
+  \+ Test different kernels and hyperparameters or consider using sklearn.model_selection.SearchGridCV. Which kernel performed best with what settings?  
+  \+ Show recall, precision and f-measure for the best model.  
+  \+ Using the original data, with rings as a continuous variable, create an SVR model.  
+  \+ Report on the predicted variance and the mean squared error.
 
 8. [Perceptron Neural Network](https://github.com/n8sean/portfolio/blob/master/Course-03_L08_Perceptron-Neural-Network.ipynb)<br/>
 *
