@@ -82,11 +82,16 @@ description: University of Washington Professional and Continueing Education
 * Compute confidence intervals for the above summary statistics by classical, bootstrap, and Bayesian methods.
 * Leverage confidence intervals in performing hypothesis tests to determine if the differences in pairs and multiple populations are significant.
 
-13. [Project Milestone 3 - Regression Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-03_RegressionSim.ipynb)<br/>
-*
+13. [Project Milestone 3 - Regression Simulation of Housing Data](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-03_RegressionSim.ipynb)<br/>
+* Prepare the data via cleaning, normalization, encoding, et cetera.
+* Generate and evaluate a working model (linear, or time series).
 
-14. [Project Milestone 4 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb)
-*
+14. [Project Milestone 4 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb)<br/>
+* Milestone 4 is where everything you built in the previous milestones comes together. For this Milestone, you focus on improving model accuracy and summarizing your findings:  
+  \+ Enhance your model results by trying different model and/or data enhancement techniques (3 models).  
+  \+ Explain your choice of model and model accuracy.  
+  \+ Draw direct inferences and conclusions from model results.  
+  \+ Use graphs and evidence from the data to prove your point.
 
 <br/>
 #### Course III - Machine Learning Techniques  
