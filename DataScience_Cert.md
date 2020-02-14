@@ -17,7 +17,7 @@ description: University of Washington Professional and Continueing Education
   </summary>
   
   <ul>
-  <li>Use visualization and summary statistical methods to explore a data set.</li>
+  <li>  Use visualization and summary statistical methods to explore a data set.</li>
   </ul>
 </details>
 
