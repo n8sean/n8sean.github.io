@@ -9,7 +9,7 @@ description: University of Washington Professional and Continueing Education
 
 <br/>
 #### Course II - Methods for Data Analysis<br/>
----
+---  
 1. [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
 * Use visualization and summary statistical methods to explore a data set.
     
@@ -124,7 +124,6 @@ description: University of Washington Professional and Continueing Education
 
 5. [Decision Tree Classifier / Entropy, GINI](https://github.com/n8sean/portfolio/blob/master/Course-03_L05_Decision-Tree-Classifier_Entropy-Gini.ipynb)<br/>
 * Rooney's client is a tech-manufacturing startup working on a number of automated detection devices for the medical and construction industries. Among the auto-detection devices is a reader that looks at possible carcinoma tissue samples to classify the sample as either benign or malignant. Rooney asks you for help in developing a better algorithm than the current classifier, perhaps a decision tree can help.
-* Design an experiment using decision tree classifiers for the detection of breast cancer and comparing the accuracy.
 * Using the WI_Breast_Cancer csv file, create a new notebook to build a decision tree classifier that would be able to detect whether a tumor is benign or malignant. Complete the following tasks and answer the questions:  
   \+ Test both entropy and the gini coefficient. Which performs better and why?  
   \+ What are the best hyperparameter settings for both?  
@@ -133,7 +132,13 @@ description: University of Washington Professional and Continueing Education
   \+ What are the implications of using this type of machine learning algorithm for breast cancer analysis?
 
 6. [Decision Tree / Random Forest](https://github.com/n8sean/portfolio/blob/master/Course-03_L06_Decision-Tree_Random-Forest.ipynb)<br/>
-*
+* Cypress from New Ventures Department has found a banking client who wants to do a targeted marketing campaign for a specialty investment product to some of its customers. Cypress stresses that the bank only wants to spend the effort on customers who are likely to say yes; last year they used a different company to generate an algorithm and ended up spamming many of their customers with products they didn't want.
+* Using the Bank Data.csv file, create a new notebook to train, test, and evaluate an ensemble model. Perform each of the following tasks and answer the related questions:  
+  \+ Read in, parse, and pre-process the data.  
+  \+ Perform a brief exploratory analysis.  
+  \+ Compare the performance between a decision tree and a random forest approach by assessing the accuracy of each model.  
+  \+ Graph the structure of your decision tree, as well as the radnom forest decision tree.  
+  \+ Graph the confusion matrices for each of your models.
 
 7. [Support Vector Classifier, Support Vector Regression](https://github.com/n8sean/portfolio/blob/master/Course-03_L07_Support-Vector-Classifier_Support-Vector-Regression.ipynb)<br/>
 *
