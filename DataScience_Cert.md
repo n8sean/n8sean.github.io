@@ -163,7 +163,13 @@ description: University of Washington Professional and Continueing Education
 * Determine what the best neural network structure and hyperparameter settings results in the best predictive capability.
 
 9. [Keras Convolutional Neural Network / CIFAR-10 Dataset](https://github.com/n8sean/portfolio/blob/master/Course-03_L09_Keras_Convolutional-Neural-Network_CIFAR-10.ipynb)<br/>
-* 
+* The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. There are 50,000 training images and 10,000 test images.
+* Read CIFAR-10 dataset from Keras.
+* Explore the dataset.
+* Preprocess and prepare the data for classification.
+* Build a TensorFlow model using a single dense hidden layer.
+* Apply the model to the test set and evaluate for accuracy.
+* Perform 3 adjusts to the number of layers and activation functions to improve accuracy.
 
 10. [Keras Regression Neural Network, LTSM / Routers Newswire Dataset](https://github.com/n8sean/portfolio/blob/master/Course-03_L10_Keras_Regression-Neural-Network_LTSM_Routers-Newswire.ipynb)<br/>
 * Your next generation search engine startup was successful in having the ability to search for images based on their content. As a result, the startup received its second round of funding to be able to search news articles based on their topic. As the lead data scientist, you are tasked to build a model that classifies the topic of each article or newswire.
