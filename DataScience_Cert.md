@@ -5,8 +5,9 @@ description: University of Washington Professional and Continueing Education
 
 ## **Certification in Data Science**<br/>
 > University of Washington Professional and Continuing Education  
-> January 2020
-<br/><br/>
+> January 2020  
+
+
 #### Course II - Methods for Data Analysis  
 ---
 1. [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
@@ -86,7 +87,7 @@ description: University of Washington Professional and Continueing Education
 * Prepare the data via cleaning, normalization, encoding, et cetera.
 * Generate and evaluate a working model (linear, or time series).
 
-14. [Project Milestone 4 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb)<br/>
+14. [Project Milestone 4 - King County Housing Data](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb)<br/>
 * Milestone 4 is where everything you built in the previous milestones comes together. For this Milestone, you focus on improving model accuracy and summarizing your findings:  
   \+ Enhance your model results by trying different model and/or data enhancement techniques (3 models).  
   \+ Explain your choice of model and model accuracy.  
