@@ -55,44 +55,69 @@ description: University of Washington Professional and Continueing Education
     \+ Number of components before and after (choose a smaller number of principal components and explain how you chose them).  
     \+ Interpret the adjusted R-squared.
 
-* [Time Series OpEd](https://github.com/n8sean/portfolio/blob/master/Course-02_L08_TimeseriesOpEd.ipynb)<br/>
+8. [Time Series Regression](https://github.com/n8sean/portfolio/blob/master/Course-02_L08_TimeseriesOpEd.ipynb)<br/>
+* Using the California dairy production dataset, perform time series analysis on the data for one of Cottage Cheese Production, Milk Production, or Ice Cream Production:  
+    \+ Is this time series stationary?  
+    \+ Is there a significant seasonal component?  
+    \+ For the residual from the STL decomposition of the time series, what is the order of the ARMA(p,q) process that best fits?
+* Forecast production for 12 months and report both numeric values and plot the confidence intervals.
 
-* [Baye's OpEd](https://github.com/n8sean/portfolio/blob/master/Course-02_L09_BayesOpEd.ipynb)<br/>
+9. [Baye's OpEd](https://github.com/n8sean/portfolio/blob/master/Course-02_L09_BayesOpEd.ipynb)<br/>
+*
 
-* [Sentiment Analysis](https://github.com/n8sean/portfolio/blob/master/Course-02_L10_Sentiment_Analysis2.ipynb)<br/>
+10. [Sentiment Analysis](https://github.com/n8sean/portfolio/blob/master/Course-02_L10_Sentiment_Analysis2.ipynb)<br/>
+*
 
-* [Project Milestone 1 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-01_KingCountyHousing.ipynb)<br/>
+11. [Project Milestone 1 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-01_KingCountyHousing.ipynb)<br/>
+*
 
-* [Project Milestone 2 - Hypothesis Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-02_HypothesisSim.ipynb)<br/>
+12. [Project Milestone 2 - Hypothesis Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-02_HypothesisSim.ipynb)<br/>
+*
 
-* [Project Milestone 3 - Regression Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-03_RegressionSim.ipynb)<br/>
+13. [Project Milestone 3 - Regression Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-03_RegressionSim.ipynb)<br/>
+*
 
-* [Project Milestone 4 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb)
-<br/><br/>
+14. [Project Milestone 4 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb)
+*
+
+<br/>
 #### Course III - Machine Learning Techniques  
 ---
-* [Understanding Business Requirements](https://github.com/n8sean/portfolio/blob/master/Course-03_L01_Understanding-Business-Requirements.pdf)<br/>
+1. [Understanding Business Requirements](https://github.com/n8sean/portfolio/blob/master/Course-03_L01_Understanding-Business-Requirements.pdf)<br/>
+*
 
-* [Classifier Imbalance](https://github.com/n8sean/portfolio/blob/master/Course-03_L02_Classifier-Imbalance.ipynb)<br/>
+2. [Classifier Imbalance](https://github.com/n8sean/portfolio/blob/master/Course-03_L02_Classifier-Imbalance.ipynb)<br/>
+*
 
-* [K-means Segmentation / Recency-Frequency-Monitary](https://github.com/n8sean/portfolio/blob/master/Course-03_L03_Kmeans-Segmentation_Recency-Frequency-Monitary.ipynb)<br/>
+3. [K-means Segmentation / Recency-Frequency-Monitary](https://github.com/n8sean/portfolio/blob/master/Course-03_L03_Kmeans-Segmentation_Recency-Frequency-Monitary.ipynb)<br/>
+*
 
-* [Feature Selection / Filter, Wrapper, Embedded](https://github.com/n8sean/portfolio/blob/master/Course-03_L04_Feature-Selection_Filter-Wrapper-Embedded.ipynb)<br/>
+4. [Feature Selection / Filter, Wrapper, Embedded](https://github.com/n8sean/portfolio/blob/master/Course-03_L04_Feature-Selection_Filter-Wrapper-Embedded.ipynb)<br/>
+*
 
-* [Decision Tree Classifier / Entropy, GINI](https://github.com/n8sean/portfolio/blob/master/Course-03_L05_Decision-Tree-Classifier_Entropy-Gini.ipynb)<br/>
+5. [Decision Tree Classifier / Entropy, GINI](https://github.com/n8sean/portfolio/blob/master/Course-03_L05_Decision-Tree-Classifier_Entropy-Gini.ipynb)<br/>
+*
 
-* [Decision Tree / Random Forest](https://github.com/n8sean/portfolio/blob/master/Course-03_L06_Decision-Tree_Random-Forest.ipynb)<br/>
+6. [Decision Tree / Random Forest](https://github.com/n8sean/portfolio/blob/master/Course-03_L06_Decision-Tree_Random-Forest.ipynb)<br/>
+*
 
-* [Support Vector Classifier, Support Vector Regression](https://github.com/n8sean/portfolio/blob/master/Course-03_L07_Support-Vector-Classifier_Support-Vector-Regression.ipynb)<br/>
+7. [Support Vector Classifier, Support Vector Regression](https://github.com/n8sean/portfolio/blob/master/Course-03_L07_Support-Vector-Classifier_Support-Vector-Regression.ipynb)<br/>
+*
 
-* [Perceptron Neural Network](https://github.com/n8sean/portfolio/blob/master/Course-03_L08_Perceptron-Neural-Network.ipynb)<br/>
+8. [Perceptron Neural Network](https://github.com/n8sean/portfolio/blob/master/Course-03_L08_Perceptron-Neural-Network.ipynb)<br/>
+*
 
-* [Keras Convolutional Neural Network / CIFAR-10 Dataset](https://github.com/n8sean/portfolio/blob/master/Course-03_L09_Keras_Convolutional-Neural-Network_CIFAR-10.ipynb)<br/>
+9. [Keras Convolutional Neural Network / CIFAR-10 Dataset](https://github.com/n8sean/portfolio/blob/master/Course-03_L09_Keras_Convolutional-Neural-Network_CIFAR-10.ipynb)<br/>
+*
 
-* [Keras Regression Neural Network, LTSM / Routers Newswire Dataset](https://github.com/n8sean/portfolio/blob/master/Course-03_L10_Keras_Regression-Neural-Network_LTSM_Routers-Newswire.ipynb)<br/>
+10. [Keras Regression Neural Network, LTSM / Routers Newswire Dataset](https://github.com/n8sean/portfolio/blob/master/Course-03_L10_Keras_Regression-Neural-Network_LTSM_Routers-Newswire.ipynb)<br/>
+*
 
-* [Milestone 1 - Feature Selection / Filter, Wrapper, Embedded](https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-01_Feature-Selection_Filter-Wrapper-Embedded.ipynb)<br/>
+11. [Milestone 1 - Feature Selection / Filter, Wrapper, Embedded](https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-01_Feature-Selection_Filter-Wrapper-Embedded.ipynb)<br/>
+*
 
-* [Milestone 2 - Decision Tree / Ensemble, Support Vector Machine](https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-02_Decision-Tree_Ensemble-Decision-Tree_Support-Vector-Machine.ipynb)<br/>
+12. [Milestone 2 - Decision Tree / Ensemble, Support Vector Machine](https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-02_Decision-Tree_Ensemble-Decision-Tree_Support-Vector-Machine.ipynb)<br/>
+*
 
-* [Milestone 3 - Simple Neural Network, Deep Neural Network, Regression Neural Network](https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-03_Simple-Neural-Network_Deep-Neural-Network_Regression-Neural-Network.ipynb)<br/>
+13. [Milestone 3 - Simple Neural Network, Deep Neural Network, Regression Neural Network](https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-03_Simple-Neural-Network_Deep-Neural-Network_Regression-Neural-Network.ipynb)<br/>
+*
