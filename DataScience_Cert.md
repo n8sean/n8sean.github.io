@@ -10,6 +10,13 @@ description: University of Washington Professional and Continueing Education
 
 #### Course II - Methods for Data Analysis<br/>
 ---
+
+<details>
+  <summary>1. [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/></summary>
+  
+  * Use visualization and summary statistical methods to explore a data set.
+</details>
+
 1. [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
 * Use visualization and summary statistical methods to explore a data set.
     
