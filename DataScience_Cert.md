@@ -3,7 +3,7 @@ title: Certificate in Data Science
 description: University of Washington Professional and Continueing Education
 ---
 
-***The following courses and assignments were accomplished for the Certificate in Data Science:***
+**Coursework accomplished for a certification in Data Science**
 <br/><br/>
 
 #### Course II - Methods for Data Analysis
