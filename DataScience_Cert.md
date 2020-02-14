@@ -8,7 +8,9 @@ description: University of Washington Professional and Continueing Education
 > January 2020
 
 
-<br/>#### Course II - Methods for Data Analysis<br/>
+
+
+#### Course II - Methods for Data Analysis<br/>
 ---
 1. [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
 * Use visualization and summary statistical methods to explore a data set.
@@ -166,7 +168,12 @@ description: University of Washington Professional and Continueing Education
 * 
 
 10. [Keras Regression Neural Network, LTSM / Routers Newswire Dataset](https://github.com/n8sean/portfolio/blob/master/Course-03_L10_Keras_Regression-Neural-Network_LTSM_Routers-Newswire.ipynb)<br/>
-*
+* Your next generation search engine startup was successful in having the ability to search for images based on their content. As a result, the startup received its second round of funding to be able to search news articles based on their topic. As the lead data scientist, you are tasked to build a model that classifies the topic of each article or newswire.
+* Using the Keras dataset, create a new notebook and perform each of the following data preparation tasks and answer the related questions:  
+  \+ Read the Reuters dataset into both training and testing datasets.  
+  \+ Prepare the dataset for modeling.  
+  \+ Build/compile 3 different models using Keras LTSM ideally to improve the model each iteration.  
+  \+ Describe and explain your findings.
 
 11. [Milestone 1 - Feature Selection / Filter, Wrapper, Embedded](https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-01_Feature-Selection_Filter-Wrapper-Embedded.ipynb)<br/>
 *
