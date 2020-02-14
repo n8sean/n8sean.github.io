@@ -115,10 +115,15 @@ description: University of Washington Professional and Continueing Education
   \+ Describe your findings.
 
 4. [Feature Selection / Filter, Wrapper, Embedded](https://github.com/n8sean/portfolio/blob/master/Course-03_L04_Feature-Selection_Filter-Wrapper-Embedded.ipynb)<br/>
-*
+* You are working for a data science consulting company. Your company is approached by a client requesting that you analyze crime data across the United States. At first glance, you notice that the data has 128 attributes and cannot be examined manually. The data combines socio-economic data from the 1990 US Census, law enforcement data from the 1990 US LEMAS survey, and crime data from the 1995 FBI UCR.
+* OBJECTIVE: identify which are the most important features or attributes that contribute to crime. Apply three techniques for feature selection:    
+  \+ Filter methods.    
+  \+ Wrapper methods.    
+  \+ Embedded methods.
+* Describe your findings.
 
 5. [Decision Tree Classifier / Entropy, GINI](https://github.com/n8sean/portfolio/blob/master/Course-03_L05_Decision-Tree-Classifier_Entropy-Gini.ipynb)<br/>
-*
+* 
 
 6. [Decision Tree / Random Forest](https://github.com/n8sean/portfolio/blob/master/Course-03_L06_Decision-Tree_Random-Forest.ipynb)<br/>
 *
