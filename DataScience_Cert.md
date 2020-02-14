@@ -69,11 +69,13 @@ description: University of Washington Professional and Continueing Education
 * Briefly summarize your findings on using Naïve Bayes.
 * Is Naïve Bayes more accurate than the regression model you used in Milestone 3?
 
-10. [Sentiment Analysis](https://github.com/n8sean/portfolio/blob/master/Course-02_L10_Sentiment_Analysis2.ipynb)<br/>
-* 
+10. [Sentiment Analysis of Tweets](https://github.com/n8sean/portfolio/blob/master/Course-02_L10_Sentiment_Analysis2.ipynb)<br/>
+* Build a sentiment analysis classifier for a series of tweets.
 
 11. [Project Milestone 1 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-01_KingCountyHousing.ipynb)<br/>
-*
+* As a housing construction contractor it is critical to achieve profit for every home sales opportunity. In this way, the need exists to identify those housing unit features that help to drive profit increase for every home property sale and / or renovation:  
+    \+ Various visulizations are given below that observe how Purchase Price is correlated with the other dataset features.  
+    \+ Explanations regarding such feature importances are provided beneath each of the figures.
 
 12. [Project Milestone 2 - Hypothesis Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-02_HypothesisSim.ipynb)<br/>
 *
