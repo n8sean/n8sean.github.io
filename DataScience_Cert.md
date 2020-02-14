@@ -4,7 +4,8 @@ description: University of Washington Professional and Continueing Education
 ---
 
 ## Coursework accomplished for certification in Data Science
-<br/><br/>
+---
+<br/>
 
 #### Course II - Methods for Data Analysis
 * [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
