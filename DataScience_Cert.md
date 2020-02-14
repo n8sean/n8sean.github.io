@@ -60,13 +60,17 @@ description: University of Washington Professional and Continueing Education
     \+ Is this time series stationary?  
     \+ Is there a significant seasonal component?  
     \+ For the residual from the STL decomposition of the time series, what is the order of the ARMA(p,q) process that best fits?
-* Forecast production for 12 months and report both numeric values and plot the confidence intervals.
+* Forecast production for 12 months and report both numeric values and plot the confidence intervals:
+    \+ Are the confidence intervals reasonably small compared to the forecast means?  
+    \+ How do the confidence intervals behave as time moves to the future?  
 
-9. [Baye's OpEd](https://github.com/n8sean/portfolio/blob/master/Course-02_L09_BayesOpEd.ipynb)<br/>
-*
+9. [Naïve Baye's Classification](https://github.com/n8sean/portfolio/blob/master/Course-02_L09_BayesOpEd.ipynb)<br/>
+* Leverage Naïve Bayes algorithm to build a classification model using the data from previous milestones.
+* Briefly summarize your findings on using Naïve Bayes.
+* Is Naïve Bayes more accurate than the regression model you used in Milestone 3?
 
 10. [Sentiment Analysis](https://github.com/n8sean/portfolio/blob/master/Course-02_L10_Sentiment_Analysis2.ipynb)<br/>
-*
+* 
 
 11. [Project Milestone 1 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-01_KingCountyHousing.ipynb)<br/>
 *
