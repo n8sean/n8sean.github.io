@@ -27,25 +27,26 @@ description: University of Washington Professional and Continueing Education
 * Compute basic summary statistics by both classical, bootstrap, and Bayesian methods.
 * Compute confidence intervals for these summary statistics by classical, bootstrap, and Bayesian methods.
 * Correctly use hypothesis tests to determine if the differences in pairs and multiple populations are significant:
-  + Classical tests
-  + Tukey’s Honest Significant Differences (HSD)
-  + Bootstrap methods
-  + Bayesian model
+    \+ Classical tests
+    \+ Tukey’s Honest Significant Differences (HSD)
+    \+ Bootstrap methods
+    \+ Bayesian model
 
 6. [Advertising Sales Regression](https://github.com/n8sean/portfolio/blob/master/Course-02_L06_AdRegression.ipynb)<br/>
 * Perform four different linear regressions on advertising sales data.
 * For the first 3 linear regressions performed:
-   + Produce a labeled graph showing the best fit line with the data points
-   + Interpret both the slope and y-intercept
+    \+ Produce a labeled graph showing the best fit line with the data points
+    \+ Interpret both the slope and y-intercept
 * The 4th regression includes all 3 prior features:
-    + TV
-    + Radio
-    + Newspaper
+    \+ TV
+    \+ Radio
+    \+ Newspaper
 * Interpret each partial slope and the intercept parameters.
 * Interpret the adjusted R-squared.
 * Find and report the mean-squared error.
 
-7. [Parkinson PCR](https://github.com/n8sean/portfolio/blob/master/Course-02_L07_ParkinsonPCR.ipynb)<br/>
+7. [Parkinson Disease Tracking](https://github.com/n8sean/portfolio/blob/master/Course-02_L07_ParkinsonPCR.ipynb)<br/>
+* Perform Principal Component Regression on a dataset that tracked patients with Parkinson's Disease.
 
 * [Time Series OpEd](https://github.com/n8sean/portfolio/blob/master/Course-02_L08_TimeseriesOpEd.ipynb)<br/>
 
