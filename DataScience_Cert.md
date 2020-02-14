@@ -5,9 +5,9 @@ description: University of Washington Professional and Continueing Education
 
 ## **Certification in Data Science**<br/>
 > University of Washington Professional and Continuing Education  
-> January 2020  
+> January 2020
 
-
+<br/>
 #### Course II - Methods for Data Analysis  
 ---
 1. [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
@@ -98,7 +98,8 @@ description: University of Washington Professional and Continueing Education
 #### Course III - Machine Learning Techniques  
 ---
 1. [Understanding Business Requirements](https://github.com/n8sean/portfolio/blob/master/Course-03_L01_Understanding-Business-Requirements.pdf)<br/>
-*
+* A diaper manufacturer wants to optimize the manufacturing process by detecting any problems that might lead to a bad quality product.
+* Prepare a business understanding document, and provide the customer with the data requirements that are needed to help ensure good quality diaper products.
 
 2. [Classifier Imbalance](https://github.com/n8sean/portfolio/blob/master/Course-03_L02_Classifier-Imbalance.ipynb)<br/>
 *
