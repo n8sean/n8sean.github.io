@@ -7,7 +7,7 @@ description: University of Washington Professional and Continueing Education
 > University of Washington Professional and Continuing Education  
 > January 2020
 
-<br/>
+
 #### Course II - Methods for Data Analysis<br/>
 ---<br/>
 1. [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
