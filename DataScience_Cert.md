@@ -12,7 +12,9 @@ description: University of Washington Professional and Continueing Education
 ---
 
 <details>
-  <summary>1. [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/></summary>
+  <summary>
+    1. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb">Visualization of Energy Loads</a><br/>
+  </summary>
   
   * Use visualization and summary statistical methods to explore a data set.
 </details>
