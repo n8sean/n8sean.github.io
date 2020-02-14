@@ -152,7 +152,16 @@ description: University of Washington Professional and Continueing Education
   \+ Report on the predicted variance and the mean squared error.
 
 8. [Perceptron Neural Network](https://github.com/n8sean/portfolio/blob/master/Course-03_L08_Perceptron-Neural-Network.ipynb)<br/>
-*
+* Mackenzie has a wine bottling factory and recently attended a followup symposium on deep learning and has returned with fascinating ideas to build neural networks to perform classification tasks. She had the idea of building a red-white wine classifier so that the bottle labels can be automatically generated. She approached your team, and suggested that you build a red-white wine classifier as a modified simple perceptron.
+* Start from the perceptron neural network notebook (Simple Perceptron Neural Network.ipynb) and modify the python code to make it into a multi-layer neural network classifier.
+* Use the provided Simple Perceptron Neural Network notebook to develop a multi-layer feed-forward/backpropagation neural network.
+* Be able to adjust the following between experiments:  
+  \+ Learning Rate  
+  \+ Number of epochs  
+  \+ Depth of architecture—number of hidden layers between the input and output layers  
+  \+ Number of nodes in a hidden layer—width of the hidden layers  
+  \+ Momentum
+* Determine what the best neural network structure and hyperparameter settings results in the best predictive capability.
 
 9. [Keras Convolutional Neural Network / CIFAR-10 Dataset](https://github.com/n8sean/portfolio/blob/master/Course-03_L09_Keras_Convolutional-Neural-Network_CIFAR-10.ipynb)<br/>
 *
