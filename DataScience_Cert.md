@@ -8,8 +8,7 @@ description: University of Washington Professional and Continueing Education
 > January 2020
 
 
-
-#### Course II - Methods for Data Analysis<br/>
+<br/>#### Course II - Methods for Data Analysis<br/>
 ---
 1. [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
 * Use visualization and summary statistical methods to explore a data set.
@@ -164,7 +163,7 @@ description: University of Washington Professional and Continueing Education
 * Determine what the best neural network structure and hyperparameter settings results in the best predictive capability.
 
 9. [Keras Convolutional Neural Network / CIFAR-10 Dataset](https://github.com/n8sean/portfolio/blob/master/Course-03_L09_Keras_Convolutional-Neural-Network_CIFAR-10.ipynb)<br/>
-*
+* 
 
 10. [Keras Regression Neural Network, LTSM / Routers Newswire Dataset](https://github.com/n8sean/portfolio/blob/master/Course-03_L10_Keras_Regression-Neural-Network_LTSM_Routers-Newswire.ipynb)<br/>
 *
