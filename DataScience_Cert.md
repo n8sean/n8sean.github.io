@@ -1,7 +1,6 @@
 ---
 title: Certificate in Data Science
 description: University of Washington Professional and Continueing Education
-date: 2020-02-13
 ---
 
 ***The following courses and assignments were accomplished for the Certificate in Data Science:***
