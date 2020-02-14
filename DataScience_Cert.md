@@ -4,6 +4,8 @@ description: University of Washington Professional and Continueing Education
 ---
 
 ## **Certification in Data Science**<br/>
+> University of Washington Professional and Continuing Education  
+> January 2020
 
 #### Course II - Methods for Data Analysis
 * [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
