@@ -8,8 +8,6 @@ description: University of Washington Professional and Continueing Education
 > January 2020
 
 
-
-
 #### Course II - Methods for Data Analysis<br/>
 ---
 1. [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
@@ -176,10 +174,30 @@ description: University of Washington Professional and Continueing Education
   \+ Describe and explain your findings.
 
 11. [Milestone 1 - Feature Selection / Filter, Wrapper, Embedded](https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-01_Feature-Selection_Filter-Wrapper-Embedded.ipynb)<br/>
-*
+* For this capstone project, use the SECOM manufacturing Data Set from the UCI Machine Learning Repository. The set is originally for semiconductor manufacturing, but in our case, we will assume that it reflects a diaper manufacturing process.
+* Assume the 591 attributes represent different sensors readings across the manufacturing process.
+* Using the SECOM dataset, perform each of the following tasks and answer the related questions:  
+  \+ Refine your data understanding and prepare a DFD of solving the manufacturing quality problem.  
+  \+ Read and merge data.  
+  \+ Clean and prepare data.  
+  \+ Visually explore data.  
+  \+ Handle class imbalance problem.  
+  \+ Apply feature selection techniques to reduce dimensionality of data.  
+  \+ Describe your initial findings in a summary section.  
 
 12. [Milestone 2 - Decision Tree / Ensemble, Support Vector Machine](https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-02_Decision-Tree_Ensemble-Decision-Tree_Support-Vector-Machine.ipynb)<br/>
-*
+* Milestone 2 continues your work with the diaper manufacturing problem, using the same datasets:  
+  \+ A dataset file SECOM containing 1567 examples, each with 591 features, presented in a 1567 x 591 matrix.  
+  \+ A labels file listing the classifications and date time stamp for each example.
+* Accomplish the following outcomes:  
+  \+ Split prepared data from Milestone 1 into training and testing data.  
+  \+ Build a decision tree model that detects faulty products.  
+  \+ Build an ensemble model that detects faulty products.  
+  \+ Build an SVM model that detects faulty products.  
+  \+ Evaluate all three models.
 
 13. [Milestone 3 - Simple Neural Network, Deep Neural Network, Regression Neural Network](https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-03_Simple-Neural-Network_Deep-Neural-Network_Regression-Neural-Network.ipynb)<br/>
-*
+* Build a simple neural networks model.
+* Build a DNN model.
+* Build a RNN model.
+* Summarize your findings with examples. Explain what the manufacturer should focus on to optimize the diaper manufacturing process.
