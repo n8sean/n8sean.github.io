@@ -8,7 +8,7 @@ description: University of Washington Professional and Continueing Education
 > January 2020
 
 <br/>
-#### Course II - Methods for Data Analysis  
+#### Course II - Methods for Data Analysis<br/>
 ---
 1. [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
 * Use visualization and summary statistical methods to explore a data set.
@@ -123,7 +123,14 @@ description: University of Washington Professional and Continueing Education
 * Describe your findings.
 
 5. [Decision Tree Classifier / Entropy, GINI](https://github.com/n8sean/portfolio/blob/master/Course-03_L05_Decision-Tree-Classifier_Entropy-Gini.ipynb)<br/>
-* 
+* Rooney's client is a tech-manufacturing startup working on a number of automated detection devices for the medical and construction industries. Among the auto-detection devices is a reader that looks at possible carcinoma tissue samples to classify the sample as either benign or malignant. Rooney asks you for help in developing a better algorithm than the current classifier, perhaps a decision tree can help.
+* Design an experiment using decision tree classifiers for the detection of breast cancer and comparing the accuracy.
+* Using the WI_Breast_Cancer csv file, create a new notebook to build a decision tree classifier that would be able to detect whether a tumor is benign or malignant. Complete the following tasks and answer the questions:  
+  \+ Test both entropy and the gini coefficient. Which performs better and why?  
+  \+ What are the best hyperparameter settings for both?  
+  \+ Visualize both models and see which feature is selected for each criterion. Are they same for both? Why or why not?  
+  \+ Determine the AUC for the best model you can achieve. What are the precision and recal values and which might be the one you want to maximize?  
+  \+ What are the implications of using this type of machine learning algorithm for breast cancer analysis?
 
 6. [Decision Tree / Random Forest](https://github.com/n8sean/portfolio/blob/master/Course-03_L06_Decision-Tree_Random-Forest.ipynb)<br/>
 *
