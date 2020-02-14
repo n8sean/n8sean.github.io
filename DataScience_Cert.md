@@ -102,10 +102,17 @@ description: University of Washington Professional and Continueing Education
 * Prepare a business understanding document, and provide the customer with the data requirements that are needed to help ensure good quality diaper products.
 
 2. [Classifier Imbalance](https://github.com/n8sean/portfolio/blob/master/Course-03_L02_Classifier-Imbalance.ipynb)<br/>
-*
+* Build a classifier model.
+* Determine the models measure of performance via accuracy.
+* Modify the data by handling class imbalance.
+* Determine a measure of performance against the updated data using a classifier model.
+* What is the model's accuracy?
 
 3. [K-means Segmentation / Recency-Frequency-Monitary](https://github.com/n8sean/portfolio/blob/master/Course-03_L03_Kmeans-Segmentation_Recency-Frequency-Monitary.ipynb)<br/>
-*
+* A superstore wants to identify customer groupings that visit their stores based on customer transaction (sales) data. These groupings are used for targeted promotions. You are asked to perform customer segmentation on the provided data.  
+  \+ Calculate the Recency, Frequency, Monitary (RFM) results of each customer.  
+  \+ Using K-means algorithm, perform customer segmentation.  
+  \+ Describe your findings.
 
 4. [Feature Selection / Filter, Wrapper, Embedded](https://github.com/n8sean/portfolio/blob/master/Course-03_L04_Feature-Selection_Filter-Wrapper-Embedded.ipynb)<br/>
 *
