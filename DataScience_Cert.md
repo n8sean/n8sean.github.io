@@ -27,42 +27,40 @@ description: University of Washington Professional and Continueing Education
 * Compute basic summary statistics by both classical, bootstrap, and Bayesian methods.
 * Compute confidence intervals for these summary statistics by classical, bootstrap, and Bayesian methods.
 * Correctly use hypothesis tests to determine if the differences in pairs and multiple populations are significant:  
-    \+ Classical tests  
-    \+ Tukey’s Honest Significant Differences (HSD)  
-    \+ Bootstrap methods  
-    \+ Bayesian model
+  \+ Classical tests  
+  \+ Tukey’s Honest Significant Differences (HSD)  
+  \+ Bootstrap methods  
+  \+ Bayesian model
 
 6. [Advertising Sales Regression](https://github.com/n8sean/portfolio/blob/master/Course-02_L06_AdRegression.ipynb)<br/>
 * Perform four different linear regressions on advertising sales data.
 * For the first 3 linear regressions performed:  
-    \+ Produce a labeled graph showing the best fit line with the data points  
-    \+ Interpret both the slope and y-intercept  
+  \+ Produce a labeled graph showing the best fit line with the data points  
+  \+ Interpret both the slope and y-intercept  
 * The 4th regression includes all 3 prior features:  
-    \+ TV  
-    \+ Radio  
-    \+ Newspaper  
+  \+ TV, Radio, and Newspaper  
 * Interpret each partial slope and the intercept parameters.  
 * Interpret the adjusted R-squared.  
 * Find and report the mean-squared error.
 
 7. [Parkinson Disease Tracking](https://github.com/n8sean/portfolio/blob/master/Course-02_L07_ParkinsonPCR.ipynb)<br/>
 * Perform Principal Component Regression on a dataset that tracked patients with Parkinson's Disease:  
-    \+ Create an X-matrix (one-hot encoding categorical factors).  
-    \+ Scale the X-matrix.  
-    \+ Create the principal components and do a simple plot of the explained variance.  
-    \+ PCR - Linear regression with the principal components.  
+  \+ Create an X-matrix (one-hot encoding categorical factors).  
+  \+ Scale the X-matrix.  
+  \+ Create the principal components and do a simple plot of the explained variance.  
+  \+ PCR - Linear regression with the principal components.  
 * Report on:  
-    \+ Number of components before and after (choose a smaller number of principal components and explain how you chose them).  
-    \+ Interpret the adjusted R-squared.
+  \+ Number of components before and after (choose a smaller number of principal components and explain how you chose them).  
+  \+ Interpret the adjusted R-squared.
 
 8. [Time Series Regression](https://github.com/n8sean/portfolio/blob/master/Course-02_L08_TimeseriesOpEd.ipynb)<br/>
 * Using the California dairy production dataset, perform time series analysis on the data for one of Cottage Cheese Production, Milk Production, or Ice Cream Production:  
-    \+ Is this time series stationary?  
-    \+ Is there a significant seasonal component?  
-    \+ For the residual from the STL decomposition of the time series, what is the order of the ARMA(p,q) process that best fits?
+  \+ Is this time series stationary?  
+  \+ Is there a significant seasonal component?  
+  \+ For the residual from the STL decomposition of the time series, what is the order of the ARMA(p,q) process that best fits?
 * Forecast production for 12 months and report both numeric values and plot the confidence intervals:
-    \+ Are the confidence intervals reasonably small compared to the forecast means?  
-    \+ How do the confidence intervals behave as time moves to the future?  
+  \+ Are the confidence intervals reasonably small compared to the forecast means?  
+  \+ How do the confidence intervals behave as time moves to the future?  
 
 9. [Naïve Baye's Classification](https://github.com/n8sean/portfolio/blob/master/Course-02_L09_BayesOpEd.ipynb)<br/>
 * Leverage Naïve Bayes algorithm to build a classification model using the data from previous milestones.
@@ -74,11 +72,15 @@ description: University of Washington Professional and Continueing Education
 
 11. [Project Milestone 1 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-01_KingCountyHousing.ipynb)<br/>
 * As a housing construction contractor it is critical to achieve profit for every home sales opportunity. In this way, the need exists to identify those housing unit features that help to drive profit increase for every home property sale and / or renovation:  
-    \+ Various visulizations are given below that observe how Purchase Price is correlated with the other dataset features.  
-    \+ Explanations regarding such feature importances are provided beneath each of the figures.
+  \+ Various visulizations are given below that observe how Purchase Price is correlated with the other dataset features.  
+  \+ Explanations regarding such feature importances are provided beneath each of the figures.
 
-12. [Project Milestone 2 - Hypothesis Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-02_HypothesisSim.ipynb)<br/>
-*
+12. [Project Milestone 2 - Hypothesis Simulation of Housing Data](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-02_HypothesisSim.ipynb)<br/>
+* Explore the dataset supported by charts and summary statistics.
+* Identify a likely distribution for several of the features.
+* Compute basic summary statistics by classical, bootstrap, and Bayesian methods.
+* Compute confidence intervals for the above summary statistics by classical, bootstrap, and Bayesian methods.
+* Leverage confidence intervals in performing hypothesis tests to determine if the differences in pairs and multiple populations are significant.
 
 13. [Project Milestone 3 - Regression Simulation](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-03_RegressionSim.ipynb)<br/>
 *
