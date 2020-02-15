@@ -268,8 +268,8 @@ description: University of Washington Professional and Continueing Education
     <li>Filter methods.</li>
     <li>Wrapper methods.</li>
     <li>Embedded methods.</li>
-  <li>Describe your findings.</li>
   </ul>
+  <li>Describe your findings.</li>
 </ul>
 </details>
 
@@ -281,33 +281,33 @@ description: University of Washington Professional and Continueing Education
 <ul>
   <li>Rooney's client is a tech-manufacturing startup working on a number of automated detection devices for the medical and construction industries. Among the auto-detection devices is a reader that looks at possible carcinoma tissue samples to classify the sample as either benign or malignant. Rooney asks you for help in developing a better algorithm than the current classifier, perhaps a decision tree can help.</li>
   <li>Using the WI_Breast_Cancer csv file, create a new notebook to build a decision tree classifier that would be able to detect whether a tumor is benign or malignant. Complete the following tasks and answer the questions:</li>
-    <ul style="list-style-type:circle;">
-      <li>Test both entropy and the gini coefficient. Which performs better and why?</li>
-      <li>What are the best hyperparameter settings for both?</li>
-      <li>Visualize both models and see which feature is selected for each criterion. Are they same for both? Why or why not?</li>
-      <li>Determine the AUC for the best model you can achieve. What are the precision and recal values and which might be the one you want to maximize?</li>
-      <li>What are the implications of using this type of machine learning algorithm for breast cancer analysis?</li>
+  <ul style="list-style-type:circle;">
+    <li>Test both entropy and the gini coefficient. Which performs better and why?</li>
+    <li>What are the best hyperparameter settings for both?</li>
+    <li>Visualize both models and see which feature is selected for each criterion. Are they same for both? Why or why not?</li>
+    <li>Determine the AUC for the best model you can achieve. What are the precision and recal values and which might be the one you want to maximize?</li>
+    <li>What are the implications of using this type of machine learning algorithm for breast cancer analysis?</li>
+  </ul>
 </ul>
 </details>
 
 <details>
   <summary>
-    6. <a href=""></a>
+    6. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L06_Decision-Tree_Random-Forest.ipynb">Decision Tree / Random Forest</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>Cypress from New Ventures Department has found a banking client who wants to do a targeted marketing campaign for a specialty investment product to some of its customers. Cypress stresses that the bank only wants to spend the effort on customers who are likely to say yes; last year they used a different company to generate an algorithm and ended up spamming many of their customers with products they didn't want.</li>
+  <li>Using the Bank Data.csv file, create a new notebook to train, test, and evaluate an ensemble model. Perform each of the following tasks and answer the related questions:</li>
+  <ul style="list-style-type:circle;">
+    <li>Read in, parse, and pre-process the data.</li>
+    <li>Perform a brief exploratory analysis.</li>
+    <li>Compare the performance between a decision tree and a random forest approach by assessing the accuracy of each model.</li>
+    <li>Graph the structure of your decision tree, as well as the radnom forest decision tree.</li>
+    <li>Graph the confusion matrices for each of your models.</li>
+  </ul>
 </ul>
 </details>
-
-6. [Decision Tree / Random Forest](https://github.com/n8sean/portfolio/blob/master/Course-03_L06_Decision-Tree_Random-Forest.ipynb)<br/>
-* Cypress from New Ventures Department has found a banking client who wants to do a targeted marketing campaign for a specialty investment product to some of its customers. Cypress stresses that the bank only wants to spend the effort on customers who are likely to say yes; last year they used a different company to generate an algorithm and ended up spamming many of their customers with products they didn't want.
-* Using the Bank Data.csv file, create a new notebook to train, test, and evaluate an ensemble model. Perform each of the following tasks and answer the related questions:  
-  \+ Read in, parse, and pre-process the data.  
-  \+ Perform a brief exploratory analysis.  
-  \+ Compare the performance between a decision tree and a random forest approach by assessing the accuracy of each model.  
-  \+ Graph the structure of your decision tree, as well as the radnom forest decision tree.  
-  \+ Graph the confusion matrices for each of your models.
 
 <details>
   <summary>
@@ -331,25 +331,36 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    8. <a href=""></a>
+    8. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L08_Perceptron-Neural-Network.ipynb">Perceptron Neural Network</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>Mackenzie has a wine bottling factory and recently attended a followup symposium on deep learning and has returned with fascinating ideas to build neural networks to perform classification tasks. She had the idea of building a red-white wine classifier so that the bottle labels can be automatically generated. She approached your team, and suggested that you build a red-white wine classifier as a modified simple perceptron.</li>
+  <li>Start from the perceptron neural network notebook (Simple Perceptron Neural Network.ipynb) and modify the python code to make it into a multi-layer neural network classifier.</li>
+  <li>Use the provided Simple Perceptron Neural Network notebook to develop a multi-layer feed-forward/backpropagation neural network.</li>
+  <li>Be able to adjust the following between experiments:</li>
+  <ul style="list-style-type:circle;">
+    <li>Learning Rate</li>
+    <li>Number of epochs</li>
+    <li>Depth of architecture—number of hidden layers between the input and output layers</li>
+    <li>Number of nodes in a hidden layer—width of the hidden layers</li>
+    <li>Momentum</li>
+  </ul>
+  <li>Determine what the best neural network structure and hyperparameter settings results in the best predictive capability.</li>
 </ul>
 </details>
 
-8. [Perceptron Neural Network](https://github.com/n8sean/portfolio/blob/master/Course-03_L08_Perceptron-Neural-Network.ipynb)<br/>
-* Mackenzie has a wine bottling factory and recently attended a followup symposium on deep learning and has returned with fascinating ideas to build neural networks to perform classification tasks. She had the idea of building a red-white wine classifier so that the bottle labels can be automatically generated. She approached your team, and suggested that you build a red-white wine classifier as a modified simple perceptron.
-* Start from the perceptron neural network notebook (Simple Perceptron Neural Network.ipynb) and modify the python code to make it into a multi-layer neural network classifier.
-* Use the provided Simple Perceptron Neural Network notebook to develop a multi-layer feed-forward/backpropagation neural network.
-* Be able to adjust the following between experiments:  
-  \+ Learning Rate  
-  \+ Number of epochs  
-  \+ Depth of architecture—number of hidden layers between the input and output layers  
-  \+ Number of nodes in a hidden layer—width of the hidden layers  
-  \+ Momentum
-* Determine what the best neural network structure and hyperparameter settings results in the best predictive capability.
+8. []()<br/>
+* 
+* 
+* 
+*   
+  \+   
+  \+   
+  \+   
+  \+   
+  \+ 
+* 
 
 <details>
   <summary>
