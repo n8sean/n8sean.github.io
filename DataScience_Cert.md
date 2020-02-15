@@ -112,6 +112,7 @@ description: University of Washington Professional and Continueing Education
   <ul style="list-style-type:circle;">
     <li>Number of components before and after (choose a smaller number of principal components and explain how you chose them).</li>
     <li>Interpret the adjusted R-squared.</li>
+  </ul>
 </ul>
 </details>
 
@@ -131,6 +132,7 @@ description: University of Washington Professional and Continueing Education
   <ul style="list-style-type:circle;">
     <li>Are the confidence intervals reasonably small compared to the forecast means?</li>
     <li>How do the confidence intervals behave as time moves to the future?</li>
+  </ul>
 </ul>
 </details>
 
