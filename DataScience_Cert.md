@@ -168,6 +168,7 @@ description: University of Washington Professional and Continueing Education
   <ul style="list-style-type:circle;">
     <li>Various visulizations are given below that observe how Purchase Price is correlated with the other dataset features.  </li>
     <li>Explanations regarding such feature importances are provided beneath each of the figures.</li>
+  </ul>
 </ul>
 </details>
 
@@ -187,17 +188,14 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    13. <a href=""></a>
+    13. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-03_RegressionSim.ipynb">Project Milestone 3 - Regression Simulation of Housing Data</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>Prepare the data via cleaning, normalization, encoding, et cetera.</li>
+  <li>Generate and evaluate a working model (linear, or time series).</li>
 </ul>
 </details>
-
-13. [Project Milestone 3 - Regression Simulation of Housing Data](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-03_RegressionSim.ipynb)<br/>
-* Prepare the data via cleaning, normalization, encoding, et cetera.
-* Generate and evaluate a working model (linear, or time series).
 
 <details>
   <summary>
