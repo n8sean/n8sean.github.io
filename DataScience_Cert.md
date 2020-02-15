@@ -351,62 +351,57 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    9. <a href=""></a>
+    9. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L09_Keras_Convolutional-Neural-Network_CIFAR-10.ipynb">Keras Convolutional Neural Network / CIFAR-10 Dataset</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. There are 50,000 training images and 10,000 test images.</li>
+  <li>Read CIFAR-10 dataset from Keras.</li>
+  <li>Explore the dataset.</li>
+  <li>Preprocess and prepare the data for classification.</li>
+  <li>Build a TensorFlow model using a single dense hidden layer.</li>
+  <li>Apply the model to the test set and evaluate for accuracy.</li>
+  <li>Perform 3 adjusts to the number of layers and activation functions to improve accuracy.</li>
 </ul>
 </details>
-
-9. [Keras Convolutional Neural Network / CIFAR-10 Dataset](https://github.com/n8sean/portfolio/blob/master/Course-03_L09_Keras_Convolutional-Neural-Network_CIFAR-10.ipynb)<br/>
-* The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. There are 50,000 training images and 10,000 test images.
-* Read CIFAR-10 dataset from Keras.
-* Explore the dataset.
-* Preprocess and prepare the data for classification.
-* Build a TensorFlow model using a single dense hidden layer.
-* Apply the model to the test set and evaluate for accuracy.
-* Perform 3 adjusts to the number of layers and activation functions to improve accuracy.
 
 <details>
   <summary>
-    10. <a href=""></a>
+    10. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L10_Keras_Regression-Neural-Network_LTSM_Routers-Newswire.ipynb">Keras Regression Neural Network, LTSM / Routers Newswire Dataset</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>Your next generation search engine startup was successful in having the ability to search for images based on their content. As a result, the startup received its second round of funding to be able to search news articles based on their topic. As the lead data scientist, you are tasked to build a model that classifies the topic of each article or newswire.</li>
+  <li>Using the Keras dataset, create a new notebook and perform each of the following data preparation tasks and answer the related questions:</li>
+  <ul style="list-style-type:circle;">
+    <li>Read the Reuters dataset into both training and testing datasets.</li>
+    <li>Prepare the dataset for modeling.</li>
+    <li>Build/compile 3 different models using Keras LTSM ideally to improve the model each iteration.</li>
+    <li>Describe and explain your findings.</li>
+  </ul>
 </ul>
 </details>
-
-10. [Keras Regression Neural Network, LTSM / Routers Newswire Dataset](https://github.com/n8sean/portfolio/blob/master/Course-03_L10_Keras_Regression-Neural-Network_LTSM_Routers-Newswire.ipynb)<br/>
-* Your next generation search engine startup was successful in having the ability to search for images based on their content. As a result, the startup received its second round of funding to be able to search news articles based on their topic. As the lead data scientist, you are tasked to build a model that classifies the topic of each article or newswire.
-* Using the Keras dataset, create a new notebook and perform each of the following data preparation tasks and answer the related questions:  
-  \+ Read the Reuters dataset into both training and testing datasets.  
-  \+ Prepare the dataset for modeling.  
-  \+ Build/compile 3 different models using Keras LTSM ideally to improve the model each iteration.  
-  \+ Describe and explain your findings.
 
 <details>
   <summary>
-    11. <a href=""></a>
+    11. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-01_Feature-Selection_Filter-Wrapper-Embedded.ipynb">Milestone 1 - Feature Selection / Filter, Wrapper, Embedded</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>For this capstone project, use the SECOM manufacturing Data Set from the UCI Machine Learning Repository. The set is originally for semiconductor manufacturing, but in our case, we will assume that it reflects a diaper manufacturing process.</li>
+  <li>Assume the 591 attributes represent different sensors readings across the manufacturing process.</li>
+  <li>Using the SECOM dataset, perform each of the following tasks and answer the related questions:</li>
+    <ul style="list-style-type:circle;">
+      <li>Refine your data understanding and prepare a DFD of solving the manufacturing quality problem.</li>
+      <li>Read and merge data.</li>
+      <li>Clean and prepare data.</li>
+      <li>Visually explore data.</li>
+      <li>Handle class imbalance problem.</li>
+      <li>Apply feature selection techniques to reduce dimensionality of data.</li>
+      <li>Describe your initial findings in a summary section.</li>
+  </ul>
 </ul>
 </details>
-
-11. [Milestone 1 - Feature Selection / Filter, Wrapper, Embedded](https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-01_Feature-Selection_Filter-Wrapper-Embedded.ipynb)<br/>
-* For this capstone project, use the SECOM manufacturing Data Set from the UCI Machine Learning Repository. The set is originally for semiconductor manufacturing, but in our case, we will assume that it reflects a diaper manufacturing process.
-* Assume the 591 attributes represent different sensors readings across the manufacturing process.
-* Using the SECOM dataset, perform each of the following tasks and answer the related questions:  
-  \+ Refine your data understanding and prepare a DFD of solving the manufacturing quality problem.  
-  \+ Read and merge data.  
-  \+ Clean and prepare data.  
-  \+ Visually explore data.  
-  \+ Handle class imbalance problem.  
-  \+ Apply feature selection techniques to reduce dimensionality of data.  
-  \+ Describe your initial findings in a summary section.  
 
 <details>
   <summary>
