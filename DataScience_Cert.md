@@ -199,20 +199,19 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    14. <a href=""></a>
+    14. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb">Project Milestone 4 - King County Housing Data</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>Milestone 4 is where everything you built in the previous milestones comes together. For this Milestone, you focus on improving model accuracy and summarizing your findings:</li>
+    <ul style="list-style-type:circle;">
+      <li>Enhance your model results by trying different model and/or data enhancement techniques (3 models).</li>
+      <li>Explain your choice of model and model accuracy.</li>
+      <li>Draw direct inferences and conclusions from model results.</li>
+      <li>Use graphs and evidence from the data to prove your point.</li>
+    </ul>
 </ul>
 </details>
-
-14. [Project Milestone 4 - King County Housing Data](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb)<br/>
-* Milestone 4 is where everything you built in the previous milestones comes together. For this Milestone, you focus on improving model accuracy and summarizing your findings:  
-  \+ Enhance your model results by trying different model and/or data enhancement techniques (3 models).  
-  \+ Explain your choice of model and model accuracy.  
-  \+ Draw direct inferences and conclusions from model results.  
-  \+ Use graphs and evidence from the data to prove your point.
 
 <br/>
 #### Course III - Machine Learning Techniques  
