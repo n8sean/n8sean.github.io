@@ -32,13 +32,16 @@ description: University of Washington Professional and Continueing Education
 </ul>
 </details>
 
+<details>
+  <summary>
+    3. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L03_MontyHall.ipynb">Monty Hall Problem</a>
+  </summary>
+  
+<ul>
+  <li>Simulate the conditional probabilities of the distributions for winning a car vs. a goat for the Monty Hall problem.</li>
+</ul>
+</details>
 
-2. [Dataset Visualization](https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb)<br/>
-* Create different complementary views of data by applying multiple chart types and aesthetics.
-* Project multiple dimensions using conditioning or faceting on both categorical and numeric variables.
-
-3. [Monty Hall Problem](https://github.com/n8sean/portfolio/blob/master/Course-02_L03_MontyHall.ipynb)<br/>
-* Simulate the conditional probabilities of the distributions for winning a car vs. a goat for the Monty Hall problem.
 
 4. [Automotive Hypothesis Testing / Automotive Dataset](https://github.com/n8sean/portfolio/blob/master/Course-02_L04_AutoHypothesis.ipynb)<br/>
 * Test various hypotheses for the price of automobile features.
