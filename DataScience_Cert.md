@@ -73,63 +73,66 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    6. <a href=""></a>
+    6. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L06_AdRegression.ipynb">Advertising Sales Regression</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>Perform four different linear regressions on advertising sales data.</li>
+  <li>For the first 3 linear regressions performed:</li>
+  <ul style="list-style-type:circle;">
+    <li>Produce a labeled graph showing the best fit line with the data points</li>
+    <li>Interpret both the slope and y-intercept</li>
+  </ul>
+  <li>The 4th regression includes all 3 prior features:</li>
+  <ul style="list-style-type:circle;">
+    <li>TV</li>
+    <li>Radio</li>
+    <li>Newspaper</li>
+  </ul>
+  <li>Interpret each partial slope and the intercept parameters.</li>
+  <li>Interpret the adjusted R-squared.</li>
+  <li>Find and report the mean-squared error.</li>
 </ul>
 </details>
-
-6. [Advertising Sales Regression](https://github.com/n8sean/portfolio/blob/master/Course-02_L06_AdRegression.ipynb)<br/>
-* Perform four different linear regressions on advertising sales data.
-* For the first 3 linear regressions performed:  
-  \+ Produce a labeled graph showing the best fit line with the data points  
-  \+ Interpret both the slope and y-intercept  
-* The 4th regression includes all 3 prior features:  
-  \+ TV, Radio, and Newspaper  
-* Interpret each partial slope and the intercept parameters.  
-* Interpret the adjusted R-squared.  
-* Find and report the mean-squared error.
 
 <details>
   <summary>
-    7. <a href=""></a>
+    7. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L07_ParkinsonPCR.ipynb">Parkinson Disease Tracking</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>Perform Principal Component Regression on a dataset that tracked patients with Parkinson's Disease:</li>
+  <ul style="list-style-type:circle;">
+    <li>Create an X-matrix (one-hot encoding categorical factors).</li>
+    <li>Scale the X-matrix.</li>
+    <li>Create the principal components and do a simple plot of the explained variance.</li>
+    <li>PCR - Linear regression with the principal components.</li>
+  </ul>
+  <li>Report on:</li>
+  <ul style="list-style-type:circle;">
+    <li>Number of components before and after (choose a smaller number of principal components and explain how you chose them).</li>
+    <li>Interpret the adjusted R-squared.</li>
 </ul>
 </details>
-
-7. [Parkinson Disease Tracking](https://github.com/n8sean/portfolio/blob/master/Course-02_L07_ParkinsonPCR.ipynb)<br/>
-* Perform Principal Component Regression on a dataset that tracked patients with Parkinson's Disease:  
-  \+ Create an X-matrix (one-hot encoding categorical factors).  
-  \+ Scale the X-matrix.  
-  \+ Create the principal components and do a simple plot of the explained variance.  
-  \+ PCR - Linear regression with the principal components.  
-* Report on:  
-  \+ Number of components before and after (choose a smaller number of principal components and explain how you chose them).  
-  \+ Interpret the adjusted R-squared.
 
 <details>
   <summary>
-    8. <a href=""></a>
+    8. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L08_TimeseriesOpEd.ipynb">Time Series Regression</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>Using the California dairy production dataset, perform time series analysis on the data for one of Cottage Cheese Production, Milk Production, or Ice Cream Production:</li>
+  <ul style="list-style-type:circle;">
+    <li>Is this time series stationary?</li>
+    <li>Is there a significant seasonal component?</li>
+    <li>For the residual from the STL decomposition of the time series, what is the order of the ARMA(p,q) process that best fits?</li>
+  </ul>
+  <li>Forecast production for 12 months and report both numeric values and plot the confidence intervals:</li>
+  <ul style="list-style-type:circle;">
+    <li>Are the confidence intervals reasonably small compared to the forecast means?</li>
+    <li>How do the confidence intervals behave as time moves to the future?</li>
 </ul>
 </details>
-
-8. [Time Series Regression](https://github.com/n8sean/portfolio/blob/master/Course-02_L08_TimeseriesOpEd.ipynb)<br/>
-* Using the California dairy production dataset, perform time series analysis on the data for one of Cottage Cheese Production, Milk Production, or Ice Cream Production:  
-  \+ Is this time series stationary?  
-  \+ Is there a significant seasonal component?  
-  \+ For the residual from the STL decomposition of the time series, what is the order of the ARMA(p,q) process that best fits?
-* Forecast production for 12 months and report both numeric values and plot the confidence intervals:
-  \+ Are the confidence intervals reasonably small compared to the forecast means?  
-  \+ How do the confidence intervals behave as time moves to the future?  
 
 <details>
   <summary>
