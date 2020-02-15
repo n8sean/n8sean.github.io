@@ -311,23 +311,22 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    7. <a href=""></a>
+    7. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L07_Support-Vector-Classifier_Support-Vector-Regression.ipynb">Support Vector Classifier, Support Vector Regression</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>Kennedy's oceanographic institute client pulled into port the other day with a ton (literally) of collected samples and corresponding data to process. Some of these data tasks are being distributed to others to work on; you've got the abalone (marine snails) data to classify and determine the age from physical characteristics.</li>
+  <li>Using the Abalone.csv file, create a new notebook to build an experiment using support vector machine classifier and regression. Perform each of the following tasks and answer the questions:</li>
+  <ul style="list-style-type:circle;">
+    <li>Convert the continuous output value from continuous to binary (0,1) and build an SVC.</li>
+    <li>Using your best guess for hyperparameters and kernel, what is the percentage of correctly classified results?</li>
+    <li>Test different kernels and hyperparameters or consider using sklearn.model_selection.SearchGridCV. Which kernel performed best with what settings?</li>
+    <li>Show recall, precision and f-measure for the best model.</li>
+    <li>Using the original data, with rings as a continuous variable, create an SVR model.</li>
+    <li>Report on the predicted variance and the mean squared error.</li>
+  </ul>
 </ul>
 </details>
-
-7. [Support Vector Classifier, Support Vector Regression](https://github.com/n8sean/portfolio/blob/master/Course-03_L07_Support-Vector-Classifier_Support-Vector-Regression.ipynb)<br/>
-* Kennedy's oceanographic institute client pulled into port the other day with a ton (literally) of collected samples and corresponding data to process. Some of these data tasks are being distributed to others to work on; you've got the abalone (marine snails) data to classify and determine the age from physical characteristics.
-* Using the Abalone.csv file, create a new notebook to build an experiment using support vector machine classifier and regression. Perform each of the following tasks and answer the questions:  
-  \+ Convert the continuous output value from continuous to binary (0,1) and build an SVC.  
-  \+ Using your best guess for hyperparameters and kernel, what is the percentage of correctly classified results?  
-  \+ Test different kernels and hyperparameters or consider using sklearn.model_selection.SearchGridCV. Which kernel performed best with what settings?  
-  \+ Show recall, precision and f-measure for the best model.  
-  \+ Using the original data, with rings as a continuous variable, create an SVR model.  
-  \+ Report on the predicted variance and the mean squared error.
 
 <details>
   <summary>
@@ -349,18 +348,6 @@ description: University of Washington Professional and Continueing Education
   <li>Determine what the best neural network structure and hyperparameter settings results in the best predictive capability.</li>
 </ul>
 </details>
-
-8. []()<br/>
-* 
-* 
-* 
-*   
-  \+   
-  \+   
-  \+   
-  \+   
-  \+ 
-* 
 
 <details>
   <summary>
