@@ -17,13 +17,22 @@ description: University of Washington Professional and Continueing Education
   </summary>
   
 <ul>
-  <li>  * Use visualization and summary statistical methods to explore a data set.</li>
+  <li>Use visualization and summary statistical methods to explore a data set.</li>
 </ul>
 </details>
 
-1. [Visualization of Energy Loads](https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb)<br/>
-* Use visualization and summary statistical methods to explore a data set.
-    
+<details>
+  <summary>
+    2. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb">Dataset Visualization</a>
+  </summary>
+  
+<ul>
+  <li>Create different complementary views of data by applying multiple chart types and aesthetics.</li>
+  <li>Project multiple dimensions using conditioning or faceting on both categorical and numeric variables.</li>
+</ul>
+</details>
+
+
 2. [Dataset Visualization](https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb)<br/>
 * Create different complementary views of data by applying multiple chart types and aesthetics.
 * Project multiple dimensions using conditioning or faceting on both categorical and numeric variables.
