@@ -218,87 +218,77 @@ description: University of Washington Professional and Continueing Education
 ---
 <details>
   <summary>
-    1. <a href=""></a>
+    1. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L01_Understanding-Business-Requirements.pdf">Understanding Business Requirements</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>A diaper manufacturer wants to optimize the manufacturing process by detecting any problems that might lead to a bad quality product.</li>
+  <li>Prepare a business understanding document, and provide the customer with the data requirements that are needed to help ensure good quality diaper products.</li>
 </ul>
 </details>
-
-1. [Understanding Business Requirements](https://github.com/n8sean/portfolio/blob/master/Course-03_L01_Understanding-Business-Requirements.pdf)<br/>
-* A diaper manufacturer wants to optimize the manufacturing process by detecting any problems that might lead to a bad quality product.
-* Prepare a business understanding document, and provide the customer with the data requirements that are needed to help ensure good quality diaper products.
 
 <details>
   <summary>
-    2. <a href=""></a>
+    2. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L02_Classifier-Imbalance.ipynb">Classifier Imbalance</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>Build a classifier model.</li>
+  <li>Determine the models measure of performance via accuracy.</li>
+  <li>Modify the data by handling class imbalance.</li>
+  <li>Determine a measure of performance against the updated data using a classifier model.</li>
+  <li>What is the model's accuracy?</li>
 </ul>
 </details>
-
-2. [Classifier Imbalance](https://github.com/n8sean/portfolio/blob/master/Course-03_L02_Classifier-Imbalance.ipynb)<br/>
-* Build a classifier model.
-* Determine the models measure of performance via accuracy.
-* Modify the data by handling class imbalance.
-* Determine a measure of performance against the updated data using a classifier model.
-* What is the model's accuracy?
 
 <details>
   <summary>
-    3. <a href=""></a>
+    3. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L03_Kmeans-Segmentation_Recency-Frequency-Monitary.ipynb">K-means Segmentation / Recency-Frequency-Monitary</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>A superstore wants to identify customer groupings that visit their stores based on customer transaction (sales) data. These groupings are used for targeted promotions. You are asked to perform customer segmentation on the provided data.</li>
+  <ul style="list-style-type:circle;">
+    <li>Calculate the Recency, Frequency, Monitary (RFM) results of each customer.</li>
+    <li>Using K-means algorithm, perform customer segmentation.</li>
+    <li>Describe your findings.</li>
+  </ul>
 </ul>
 </details>
-
-3. [K-means Segmentation / Recency-Frequency-Monitary](https://github.com/n8sean/portfolio/blob/master/Course-03_L03_Kmeans-Segmentation_Recency-Frequency-Monitary.ipynb)<br/>
-* A superstore wants to identify customer groupings that visit their stores based on customer transaction (sales) data. These groupings are used for targeted promotions. You are asked to perform customer segmentation on the provided data.  
-  \+ Calculate the Recency, Frequency, Monitary (RFM) results of each customer.  
-  \+ Using K-means algorithm, perform customer segmentation.  
-  \+ Describe your findings.
 
 <details>
   <summary>
-    4. <a href=""></a>
+    4. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L04_Feature-Selection_Filter-Wrapper-Embedded.ipynb">Feature Selection / Filter, Wrapper, Embedded</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>You are working for a data science consulting company. Your company is approached by a client requesting that you analyze crime data across the United States. At first glance, you notice that the data has 128 attributes and cannot be examined manually. The data combines socio-economic data from the 1990 US Census, law enforcement data from the 1990 US LEMAS survey, and crime data from the 1995 FBI UCR.</li>
+  <li>OBJECTIVE: identify which are the most important features or attributes that contribute to crime. Apply three techniques for feature selection:</li>
+  <ul style="list-style-type:circle;">
+    <li>Filter methods.</li>
+    <li>Wrapper methods.</li>
+    <li>Embedded methods.</li>
+  <li>Describe your findings.</li>
+  </ul>
 </ul>
 </details>
-
-4. [Feature Selection / Filter, Wrapper, Embedded](https://github.com/n8sean/portfolio/blob/master/Course-03_L04_Feature-Selection_Filter-Wrapper-Embedded.ipynb)<br/>
-* You are working for a data science consulting company. Your company is approached by a client requesting that you analyze crime data across the United States. At first glance, you notice that the data has 128 attributes and cannot be examined manually. The data combines socio-economic data from the 1990 US Census, law enforcement data from the 1990 US LEMAS survey, and crime data from the 1995 FBI UCR.
-* OBJECTIVE: identify which are the most important features or attributes that contribute to crime. Apply three techniques for feature selection:    
-  \+ Filter methods.    
-  \+ Wrapper methods.    
-  \+ Embedded methods.
-* Describe your findings.
 
 <details>
   <summary>
-    5. <a href=""></a>
+    5. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L05_Decision-Tree-Classifier_Entropy-Gini.ipynb">Decision Tree Classifier / Entropy, GINI</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>Rooney's client is a tech-manufacturing startup working on a number of automated detection devices for the medical and construction industries. Among the auto-detection devices is a reader that looks at possible carcinoma tissue samples to classify the sample as either benign or malignant. Rooney asks you for help in developing a better algorithm than the current classifier, perhaps a decision tree can help.</li>
+  <li>Using the WI_Breast_Cancer csv file, create a new notebook to build a decision tree classifier that would be able to detect whether a tumor is benign or malignant. Complete the following tasks and answer the questions:</li>
+    <ul style="list-style-type:circle;">
+      <li>Test both entropy and the gini coefficient. Which performs better and why?</li>
+      <li>What are the best hyperparameter settings for both?</li>
+      <li>Visualize both models and see which feature is selected for each criterion. Are they same for both? Why or why not?</li>
+      <li>Determine the AUC for the best model you can achieve. What are the precision and recal values and which might be the one you want to maximize?</li>
+      <li>What are the implications of using this type of machine learning algorithm for breast cancer analysis?</li>
 </ul>
 </details>
-
-5. [Decision Tree Classifier / Entropy, GINI](https://github.com/n8sean/portfolio/blob/master/Course-03_L05_Decision-Tree-Classifier_Entropy-Gini.ipynb)<br/>
-* Rooney's client is a tech-manufacturing startup working on a number of automated detection devices for the medical and construction industries. Among the auto-detection devices is a reader that looks at possible carcinoma tissue samples to classify the sample as either benign or malignant. Rooney asks you for help in developing a better algorithm than the current classifier, perhaps a decision tree can help.
-* Using the WI_Breast_Cancer csv file, create a new notebook to build a decision tree classifier that would be able to detect whether a tumor is benign or malignant. Complete the following tasks and answer the questions:  
-  \+ Test both entropy and the gini coefficient. Which performs better and why?  
-  \+ What are the best hyperparameter settings for both?  
-  \+ Visualize both models and see which feature is selected for each criterion. Are they same for both? Why or why not?  
-  \+ Determine the AUC for the best model you can achieve. What are the precision and recal values and which might be the one you want to maximize?  
-  \+ What are the implications of using this type of machine learning algorithm for breast cancer analysis?
 
 <details>
   <summary>
