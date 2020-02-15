@@ -136,63 +136,52 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    9. <a href=""></a>
+    9. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L09_BayesOpEd.ipynb">Naïve Baye's Classification</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>Leverage Naïve Bayes algorithm to build a classification model using the data from previous milestones.</li>
+  <li>Briefly summarize your findings on using Naïve Bayes.</li>
+  <li>Is Naïve Bayes more accurate than the regression model you used in Milestone 3?</li>
 </ul>
 </details>
-
-9. [Naïve Baye's Classification](https://github.com/n8sean/portfolio/blob/master/Course-02_L09_BayesOpEd.ipynb)<br/>
-* Leverage Naïve Bayes algorithm to build a classification model using the data from previous milestones.
-* Briefly summarize your findings on using Naïve Bayes.
-* Is Naïve Bayes more accurate than the regression model you used in Milestone 3?
 
 <details>
   <summary>
-    10. <a href=""></a>
+    10. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L10_Sentiment_Analysis2.ipynb">Sentiment Analysis of Tweets</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>Build a sentiment analysis classifier for a series of tweets.</li>
 </ul>
 </details>
-
-10. [Sentiment Analysis of Tweets](https://github.com/n8sean/portfolio/blob/master/Course-02_L10_Sentiment_Analysis2.ipynb)<br/>
-* Build a sentiment analysis classifier for a series of tweets.
 
 <details>
   <summary>
-    11. <a href=""></a>
+    11. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-01_KingCountyHousing.ipynb">Project Milestone 1 - King County Housing</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>As a housing construction contractor it is critical to achieve profit for every home sales opportunity. In this way, the need exists to identify those housing unit features that help to drive profit increase for every home property sale and / or renovation:</li>
+  <ul style="list-style-type:circle;">
+    <li>Various visulizations are given below that observe how Purchase Price is correlated with the other dataset features.  </li>
+    <li>Explanations regarding such feature importances are provided beneath each of the figures.</li>
 </ul>
 </details>
-
-11. [Project Milestone 1 - King County Housing](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-01_KingCountyHousing.ipynb)<br/>
-* As a housing construction contractor it is critical to achieve profit for every home sales opportunity. In this way, the need exists to identify those housing unit features that help to drive profit increase for every home property sale and / or renovation:  
-  \+ Various visulizations are given below that observe how Purchase Price is correlated with the other dataset features.  
-  \+ Explanations regarding such feature importances are provided beneath each of the figures.
 
 <details>
   <summary>
-    12. <a href=""></a>
+    12. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-02_HypothesisSim.ipynb">Project Milestone 2 - Hypothesis Simulation of Housing Data</a>
   </summary>
   
 <ul>
-  <li></li>
+  <li>Explore the dataset supported by charts and summary statistics.</li>
+  <li>Identify a likely distribution for several of the features.</li>
+  <li>Compute basic summary statistics by classical, bootstrap, and Bayesian methods.</li>
+  <li>Compute confidence intervals for the above summary statistics by classical, bootstrap, and Bayesian methods.</li>
+  <li>Leverage confidence intervals in performing hypothesis tests to determine if the differences in pairs and multiple populations are significant.</li>
 </ul>
 </details>
-
-12. [Project Milestone 2 - Hypothesis Simulation of Housing Data](https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-02_HypothesisSim.ipynb)<br/>
-* Explore the dataset supported by charts and summary statistics.
-* Identify a likely distribution for several of the features.
-* Compute basic summary statistics by classical, bootstrap, and Bayesian methods.
-* Compute confidence intervals for the above summary statistics by classical, bootstrap, and Bayesian methods.
-* Leverage confidence intervals in performing hypothesis tests to determine if the differences in pairs and multiple populations are significant.
 
 <details>
   <summary>
