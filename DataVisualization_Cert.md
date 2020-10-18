@@ -14,6 +14,6 @@ description: University of Indiana
   
 <ul>
   <li>Develop a project proposal that will facilitate stakeholder decision making processes.</li>  
-  <li>Project proposal: Develop various data visualization artifacts that give improved insight toward air quality scores and forest fire activity.</li>  
+  <li>Project proposal: Develop various data visualization artifacts that give improved insight toward air quality scores based upon forest fire activity.</li>  
 </ul>
 </details>
