@@ -1,3 +1,7 @@
+# [Certificate in Data Visualization](https://n8sean.github.io/DataVisualization_Cert)
+> University of Indiana
+> October 2020
+
 # [Certification in Data Science](https://n8sean.github.io/DataScience_Cert)
 > University of Washington Professional and Continuing Education  
 > January 2020  
