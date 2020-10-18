@@ -1,5 +1,5 @@
 # [Certificate in Data Visualization](https://n8sean.github.io/DataVisualization_Cert)
-> University of Indiana
+> University of Indiana  
 > October 2020  
 [https://visanalytics.cns.iu.edu](https://visanalytics.cns.iu.edu)
 
