@@ -1,6 +1,3 @@
-# COMPETITIONS  
-> ## [Kaggle](https://www.kaggle.com/)
-> (in-work)  
   
 # CERTIFICATIONS  
 > ## [Certificate in Data Visualization](https://n8sean.github.io/DataVisualization_Cert)
