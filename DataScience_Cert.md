@@ -1,19 +1,19 @@
----
 title: Certificate in Data Science
 description: University of Washington Professional and Continueing Education
----
 
-## **Certification in Data Science**<br/>
-> University of Washington Professional and Continuing Education  
+<h1><b>Certificate in Data Science</b></h1>
+> University of Washington Professional and Continuing Education<br>
 > January 2020
 
-
-#### Course II - Methods for Data Analysis<br/>
----
+<hr style="width:50%;text-align:left;margin-left:0"> 
+<p><h3>Course II - Methods for Data Analysis</h3>
+<h6>(expand the arrow)</h6></p>
+<hr style="width:50%;text-align:left;margin-left:0">
 
 <details>
   <summary>
-    1. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb">Visualization of Energy Loads</a>
+    1. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L01_EnergyLoads.ipynb">Visualization of Energy Loads</a><br>
+    <pre>&nbsp;&nbsp;| Summary Statistical Methods |</pre>
   </summary>
   
 <ul>
@@ -23,7 +23,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    2. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb">Dataset Visualization</a>
+    2. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L02_Vizualization.ipynb">Dataset Visualization</a><br>
+    <pre>&nbsp;&nbsp;| Multiple Chart Types | Categorical and Numeric Variables |</pre>
   </summary>
   
 <ul>
@@ -34,7 +35,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    3. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L03_MontyHall.ipynb">Monty Hall Problem</a>
+    3. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L03_MontyHall.ipynb">Monty Hall Problem</a><br>
+    <pre>&nbsp;&nbsp;| Conditional Probability Distributions Simulation |</pre>
   </summary>
   
 <ul>
@@ -44,7 +46,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    4. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L04_AutoHypothesis.ipynb">Automotive Hypothesis Testing / Automotive Dataset</a>
+    4. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L04_AutoHypothesis.ipynb">Automotive Hypothesis Testing / Automotive Dataset</a><br>
+    <pre>&nbsp;&nbsp; |Hypotheses Testing |</pre>
   </summary>
   
 <ul>
@@ -54,7 +57,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    5. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L05_HypothesisSim.ipynb">Hypothesis Simulation / Automotive Dataset</a>
+    5. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L05_HypothesisSim.ipynb">Hypothesis Simulation / Automotive Dataset</a><br>
+    <pre>&nbsp;&nbsp;| Summary Statistics and Confidence Intervals - Classical, Bootstrap, and Bayesian Methods | Distribution Identification | Statistical Significance - Tukey |</pre>
   </summary>
   
 <ul>
@@ -73,7 +77,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    6. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L06_AdRegression.ipynb">Advertising Sales Regression</a>
+    6. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L06_AdRegression.ipynb">Advertising Sales Regression</a><br>
+    <pre>&nbsp;&nbsp;| Linear Regression Modeling | Visualization - Best Fit Line, Slope, Intercept, R-squared, Mean Squared Error |</pre>
   </summary>
   
 <ul>
@@ -97,7 +102,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    7. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L07_ParkinsonPCR.ipynb">Parkinson Disease Tracking</a>
+    7. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L07_ParkinsonPCR.ipynb">Parkinson Disease Tracking</a><br>
+    <pre>&nbsp;&nbsp;| Principal Component Regression | Principle COmponents | Explained Variance | One-hot Encoding | R-squared |</pre>
   </summary>
   
 <ul>
@@ -118,7 +124,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    8. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L08_TimeseriesOpEd.ipynb">Time Series Regression</a>
+    8. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L08_TimeseriesOpEd.ipynb">Time Series Regression</a><br>
+    <pre>&nbsp;&nbsp;| ARMA | Time Series Analysis | Forecasting | Visualization - Confidence Intervals |</pre>
   </summary>
   
 <ul>
@@ -138,7 +145,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    9. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L09_BayesOpEd.ipynb">Naïve Baye's Classification</a>
+    9. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L09_BayesOpEd.ipynb">Naïve Baye's Classification</a><br>
+    <pre>&nbsp;&nbsp;| Naïve Bayes Algorithm | Classification |</pre>
   </summary>
   
 <ul>
@@ -150,7 +158,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    10. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L10_Sentiment_Analysis2.ipynb">Sentiment Analysis of Tweets</a>
+    10. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_L10_Sentiment_Analysis2.ipynb">Sentiment Analysis of Tweets</a><br>
+    <pre>&nbsp;&nbsp;| Sentiment Analysis Classification |</pre>
   </summary>
   
 <ul>
@@ -160,7 +169,7 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    11. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-01_KingCountyHousing.ipynb">Project Milestone 1 - King County Housing</a>
+    11. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-01_KingCountyHousing.ipynb">Project Milestone 1 - King County Housing</a><br>
   </summary>
   
 <ul>
@@ -174,7 +183,7 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    12. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-02_HypothesisSim.ipynb">Project Milestone 2 - Hypothesis Simulation of Housing Data</a>
+    12. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-02_HypothesisSim.ipynb">Project Milestone 2 - Hypothesis Simulation of Housing Data</a><br>
   </summary>
   
 <ul>
@@ -188,7 +197,7 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    13. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-03_RegressionSim.ipynb">Project Milestone 3 - Regression Simulation of Housing Data</a>
+    13. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-03_RegressionSim.ipynb">Project Milestone 3 - Regression Simulation of Housing Data</a><br>
   </summary>
   
 <ul>
@@ -199,7 +208,7 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    14. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb">Project Milestone 4 - King County Housing Data</a>
+    14. <a href="https://github.com/n8sean/portfolio/blob/master/Course-02_Milestone-04_KingCountyHousing.ipynb">Project Milestone 4 - King County Housing Data</a><br>
   </summary>
   
 <ul>
@@ -213,12 +222,16 @@ description: University of Washington Professional and Continueing Education
 </ul>
 </details>
 
-<br/>
-#### Course III - Machine Learning Techniques  
----
+<br>
+<hr style="width:50%;text-align:left;margin-left:0"> 
+<p><h3>Course III - Machine Learning Techniques</h3>
+<h6>(expand the arrow)</h6></p>
+<hr style="width:50%;text-align:left;margin-left:0">
+
 <details>
   <summary>
-    1. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L01_Understanding-Business-Requirements.pdf">Understanding Business Requirements</a>
+    1. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L01_Understanding-Business-Requirements.pdf">Understanding Business Requirements</a><br>
+    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
@@ -229,7 +242,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    2. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L02_Classifier-Imbalance.ipynb">Classifier Imbalance</a>
+    2. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L02_Classifier-Imbalance.ipynb">Classifier Imbalance</a><br>
+    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
@@ -243,7 +257,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    3. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L03_Kmeans-Segmentation_Recency-Frequency-Monitary.ipynb">K-means Segmentation / Recency-Frequency-Monitary</a>
+    3. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L03_Kmeans-Segmentation_Recency-Frequency-Monitary.ipynb">K-means Segmentation / Recency-Frequency-Monitary</a><br>
+    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
@@ -258,7 +273,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    4. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L04_Feature-Selection_Filter-Wrapper-Embedded.ipynb">Feature Selection / Filter, Wrapper, Embedded</a>
+    4. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L04_Feature-Selection_Filter-Wrapper-Embedded.ipynb">Feature Selection / Filter, Wrapper, Embedded</a><br>
+    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
@@ -276,6 +292,7 @@ description: University of Washington Professional and Continueing Education
 <details>
   <summary>
     5. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L05_Decision-Tree-Classifier_Entropy-Gini.ipynb">Decision Tree Classifier / Entropy, GINI</a>
+    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
@@ -293,7 +310,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    6. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L06_Decision-Tree_Random-Forest.ipynb">Decision Tree / Random Forest</a>
+    6. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L06_Decision-Tree_Random-Forest.ipynb">Decision Tree / Random Forest</a><br>
+    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
@@ -311,7 +329,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    7. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L07_Support-Vector-Classifier_Support-Vector-Regression.ipynb">Support Vector Classifier, Support Vector Regression</a>
+    7. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L07_Support-Vector-Classifier_Support-Vector-Regression.ipynb">Support Vector Classifier, Support Vector Regression</a><br>
+    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
@@ -330,7 +349,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    8. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L08_Perceptron-Neural-Network.ipynb">Perceptron Neural Network</a>
+    8. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L08_Perceptron-Neural-Network.ipynb">Perceptron Neural Network</a><br>
+    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
@@ -351,7 +371,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    9. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L09_Keras_Convolutional-Neural-Network_CIFAR-10.ipynb">Keras Convolutional Neural Network / CIFAR-10 Dataset</a>
+    9. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L09_Keras_Convolutional-Neural-Network_CIFAR-10.ipynb">Keras Convolutional Neural Network / CIFAR-10 Dataset</a><br>
+    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
@@ -367,7 +388,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    10. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L10_Keras_Regression-Neural-Network_LTSM_Routers-Newswire.ipynb">Keras Regression Neural Network, LTSM / Routers Newswire Dataset</a>
+    10. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L10_Keras_Regression-Neural-Network_LTSM_Routers-Newswire.ipynb">Keras Regression Neural Network, LTSM / Routers Newswire Dataset</a><br>
+    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
@@ -384,7 +406,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    11. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-01_Feature-Selection_Filter-Wrapper-Embedded.ipynb">Milestone 1 - Feature Selection / Filter, Wrapper, Embedded</a>
+    11. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-01_Feature-Selection_Filter-Wrapper-Embedded.ipynb">Milestone 1 - Feature Selection / Filter, Wrapper, Embedded</a><br>
+    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
@@ -405,7 +428,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    12. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-02_Decision-Tree_Ensemble-Decision-Tree_Support-Vector-Machine.ipynb">Milestone 2 - Decision Tree / Ensemble, Support Vector Machine</a>
+    12. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-02_Decision-Tree_Ensemble-Decision-Tree_Support-Vector-Machine.ipynb">Milestone 2 - Decision Tree / Ensemble, Support Vector Machine</a><br>
+    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
@@ -427,7 +451,8 @@ description: University of Washington Professional and Continueing Education
 
 <details>
   <summary>
-    13. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-03_Simple-Neural-Network_Deep-Neural-Network_Regression-Neural-Network.ipynb">Milestone 3 - Simple Neural Network, Deep Neural Network, Regression Neural Network</a>
+    13. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-03_Simple-Neural-Network_Deep-Neural-Network_Regression-Neural-Network.ipynb">Milestone 3 - Simple Neural Network, Deep Neural Network, Regression Neural Network</a><br>
+    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
