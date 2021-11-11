@@ -1,5 +1,5 @@
-title: Certificate in Data Science
-description: University of Washington Professional and Continueing Education
+<!---title: Certificate in Data Science
+description: University of Washington Professional and Continueing Education--->
 
 <h1><b>Certificate in Data Science</b></h1>
 > University of Washington Professional and Continuing Education<br>
