@@ -231,7 +231,7 @@ description: University of Washington Professional and Continueing Education
 <details>
   <summary>
     1. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L01_Understanding-Business-Requirements.pdf">Understanding Business Requirements</a><br>
-    <pre>&nbsp;&nbsp;||</pre>
+    <pre>&nbsp;&nbsp;| Documentation of Project Data Requirements |</pre>
   </summary>
   
 <ul>
@@ -243,7 +243,7 @@ description: University of Washington Professional and Continueing Education
 <details>
   <summary>
     2. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L02_Classifier-Imbalance.ipynb">Classifier Imbalance</a><br>
-    <pre>&nbsp;&nbsp;||</pre>
+    <pre>&nbsp;&nbsp;| Classification Model| Class Imbalance | Model Analysis - Performance, Accuracy |</pre>
   </summary>
   
 <ul>
@@ -258,7 +258,7 @@ description: University of Washington Professional and Continueing Education
 <details>
   <summary>
     3. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L03_Kmeans-Segmentation_Recency-Frequency-Monitary.ipynb">K-means Segmentation / Recency-Frequency-Monitary</a><br>
-    <pre>&nbsp;&nbsp;||</pre>
+    <pre>&nbsp;&nbsp;| K-means Customer Segmentation | Recency, Frequency, Monitary (RFM) Results |</pre>
   </summary>
   
 <ul>
@@ -274,7 +274,7 @@ description: University of Washington Professional and Continueing Education
 <details>
   <summary>
     4. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L04_Feature-Selection_Filter-Wrapper-Embedded.ipynb">Feature Selection / Filter, Wrapper, Embedded</a><br>
-    <pre>&nbsp;&nbsp;||</pre>
+    <pre>&nbsp;&nbsp;| Feature Identification - Filter, Wrapper, Embedded |</pre>
   </summary>
   
 <ul>
@@ -292,7 +292,7 @@ description: University of Washington Professional and Continueing Education
 <details>
   <summary>
     5. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L05_Decision-Tree-Classifier_Entropy-Gini.ipynb">Decision Tree Classifier / Entropy, GINI</a>
-    <pre>&nbsp;&nbsp;||</pre>
+    <pre>&nbsp;&nbsp;| Decision Tree Classification | AUC | Model Analysis - Entropy and Gini Coefficients, Precision, Recal, Hyperparameters |</pre>
   </summary>
   
 <ul>
@@ -311,7 +311,7 @@ description: University of Washington Professional and Continueing Education
 <details>
   <summary>
     6. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L06_Decision-Tree_Random-Forest.ipynb">Decision Tree / Random Forest</a><br>
-    <pre>&nbsp;&nbsp;||</pre>
+    <pre>&nbsp;&nbsp;| Decision Tree vs. Random Forest | Dataset Pre-process | Exploratory Data Analysis | Confusion Matrices | Visualization - Tree Structures | Model Analysis - Accuracy</pre>
   </summary>
   
 <ul>
@@ -330,7 +330,7 @@ description: University of Washington Professional and Continueing Education
 <details>
   <summary>
     7. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L07_Support-Vector-Classifier_Support-Vector-Regression.ipynb">Support Vector Classifier, Support Vector Regression</a><br>
-    <pre>&nbsp;&nbsp;||</pre>
+    <pre>&nbsp;&nbsp;| Support Vector Machine - Classification, Regression | Scikit - SearchGridCV | Model Analysis - Recall, Precision, F-measure, Predicted Variance, Mean Squared Error | Optimization - Kernel, Hyperparameters |</pre>
   </summary>
   
 <ul>
@@ -350,7 +350,7 @@ description: University of Washington Professional and Continueing Education
 <details>
   <summary>
     8. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L08_Perceptron-Neural-Network.ipynb">Perceptron Neural Network</a><br>
-    <pre>&nbsp;&nbsp;||</pre>
+    <pre>&nbsp;&nbsp;| Simple Perceptron Neural Network | Multi-layer Neural Network Classifier | Optimization - Architecture, Learning Rate, Epochs, Momentum |</pre>
   </summary>
   
 <ul>
@@ -372,7 +372,7 @@ description: University of Washington Professional and Continueing Education
 <details>
   <summary>
     9. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L09_Keras_Convolutional-Neural-Network_CIFAR-10.ipynb">Keras Convolutional Neural Network / CIFAR-10 Dataset</a><br>
-    <pre>&nbsp;&nbsp;||</pre>
+    <pre>&nbsp;&nbsp;| TensorFlow | Keras CNN | Dataset Preprocess and Preparation |</pre>
   </summary>
   
 <ul>
@@ -389,7 +389,7 @@ description: University of Washington Professional and Continueing Education
 <details>
   <summary>
     10. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_L10_Keras_Regression-Neural-Network_LTSM_Routers-Newswire.ipynb">Keras Regression Neural Network, LTSM / Routers Newswire Dataset</a><br>
-    <pre>&nbsp;&nbsp;||</pre>
+    <pre>&nbsp;&nbsp;| Keras LTSM | Model Dataset Preparation |</pre>
   </summary>
   
 <ul>
@@ -407,7 +407,6 @@ description: University of Washington Professional and Continueing Education
 <details>
   <summary>
     11. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-01_Feature-Selection_Filter-Wrapper-Embedded.ipynb">Milestone 1 - Feature Selection / Filter, Wrapper, Embedded</a><br>
-    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
@@ -429,7 +428,6 @@ description: University of Washington Professional and Continueing Education
 <details>
   <summary>
     12. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-02_Decision-Tree_Ensemble-Decision-Tree_Support-Vector-Machine.ipynb">Milestone 2 - Decision Tree / Ensemble, Support Vector Machine</a><br>
-    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
@@ -452,7 +450,6 @@ description: University of Washington Professional and Continueing Education
 <details>
   <summary>
     13. <a href="https://github.com/n8sean/portfolio/blob/master/Course-03_Milestone-03_Simple-Neural-Network_Deep-Neural-Network_Regression-Neural-Network.ipynb">Milestone 3 - Simple Neural Network, Deep Neural Network, Regression Neural Network</a><br>
-    <pre>&nbsp;&nbsp;||</pre>
   </summary>
   
 <ul>
